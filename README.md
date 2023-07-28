@@ -13,3 +13,14 @@ Check the examples and demonstration video in the [Demo Page](https://audio-agi.
 </p>
 
 We will be releasing the code & software very soon! Please stay tuned for further updates and more details!
+
+## Citation
+If you find this work useful in your method, you can cite the paper below:
+
+    @article{liu2023wavjourney,
+        title   = {WavJourney: Compositional Audio Creation with Large Language Models},
+        author  = {Liu, Xubo and Zhu, Zhongkai and Liu, Haohe and Yuan, Yi and Huang, Qiushi and Liang, Jinhua and Cao, Yin and Kong, Qiuqiang and Plumbley, Mark D and Wang, Wenwu},
+        journal = {arXiv preprint arXiv:2307.14335},
+        year    = {2023}
+    }
+
