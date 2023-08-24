@@ -1,0 +1,17 @@
+AudioCraft:
+  # MusicGen 
+  ttm_model_size: small # [small, medium, large]
+  # AudioGen 
+  tta_model_size: medium # [medium]
+
+Text-to-Speech:
+  # Bark
+  speed: 1.05
+
+Speech-Restoration:
+  # VoiceFixer
+  Enable: True
+
+Voice-Parser:
+  # HuBERT
+  device: 'cpu'

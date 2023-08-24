@@ -1,0 +1,47 @@
+{
+    "Female1": {
+        "id": "Female1",
+        "desc": "a normal female adult voice, British accent",
+        "npz_path": "v2/en_speaker_9"
+    },
+    "Female2": {
+        "id": "Female2",
+        "desc": "a normal female adult voice, American accent",
+        "npz_path": "v2/de_speaker_3"
+    },
+    "Male1": {
+        "id": "Male1",
+        "desc": "a normal male adult voice, British accent",
+        "npz_path": "v2/en_speaker_1"
+    },
+    "Male2": {
+        "id": "Male2",
+        "desc": "a normal male adult voice, American accent",
+        "npz_path": "v2/en_speaker_6"
+    },
+    "News_Male": {
+        "id": "News_Male",
+        "desc": "a male voice of a news anchor, suitable for news scenarios",
+        "npz_path": "data/voice_presets/npz/news_male_speaker.npz"
+    },
+    "News_Female": {
+        "id": "News_Female",
+        "desc": "a female voice of a news anchor, suitable for news scenarios",
+        "npz_path": "data/voice_presets/npz/news_male_speaker.npz"
+    },
+    "News_Female_Out": {
+        "id": "News_Female_Out",
+        "desc": "a female voice of a off-site news reporter, suitable for news scenario",
+        "npz_path": "data/voice_presets/npz/news_female_speaker_outside.npz"
+    },
+    "Child": {
+        "id": "Child",
+        "desc": "a small young boy voice",
+        "npz_path": "data/voice_presets/npz/child_boy.npz"
+    },
+    "Old_man": {
+        "id": "Old_man",
+        "desc": "a voice of an old man",
+        "npz_path": "data/voice_presets/npz/elder_morgen.npz"
+    }
+}
