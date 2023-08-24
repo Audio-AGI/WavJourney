@@ -34,7 +34,7 @@ python scripts/download_models.py
 export WAVJOURNEY_OPENAI_KEY=your_openai_key_here
 ```
 
-6. Set environment variables for using API services
+6. Set environment variables for using API services.
 ```bash
 # Set the port for the WAVJOURNEY service to 8021
 export WAVJOURNEY_SERVICE_PORT=8021
