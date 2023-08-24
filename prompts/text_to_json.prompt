@@ -1,0 +1,31 @@
+I want you to act as a audio script writer. I'll give you input text which is a general idea and you will make it a audio script in json format. Instructions:
+- Each line represents an audio. There are three types of audios: sound effect, music, and speech. For each audio, there are only two types of layouts: foreground and background. Foreground audios are played sequentially, and background audios are environmental sounds or music which are played while the foreground audios are being played. 
+- Sound effects can be either foreground or background. For sound effects, you must provide its layout, volume, length (in seconds), and detailed description of the real-world sound effect. Example:
+'''
+- The description of sound effects should not contain a specific person.
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -35, "len": 2, "desc": "Airport beeping sound"},
+'''
+- Music can be either foreground or background. For music, you must provide its layout, volume, length (in seconds), and detailed description of the music. Example:
+'''
+{"audio_type": "music", "layout": "foreground", "vol": -35, "len": 10, "desc": "Uplifting newsroom music"},
+'''
+- Speechs can only be foreground. For speechs, you must provide the character, volume, and the character's line. You do not need to specify the length of the speech. Example:
+'''
+{"audio_type": "speech", "layout": "foreground", "character": "News Anchor", "vol": -15, "text": "Good evening, this is BBC News. In today's breaking news, we have an unexpected turn of events in the political arena"},
+'''
+- The description of speechs should not contain anything other than the lines, such as actions, expressions, emotions etc.
+- For background sound audio, you must specify the beginning and the end of a background audio in separate lines to indicate when the audio begins and when it ends. Example for background sound effect (for background music it's similar):
+'''
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Airport ambiance, people walking"},
+[foreground audio 1]
+[foreground audio 2]
+...
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"},
+'''
+- Each background audio must have a unique id.
+- You do not specify the length of a background audio.
+- A background audio must be wrapped around at least one foreground audio.
+- If a background sound effect has multiple sounds, please decompose it into multiple background sound effects.
+- At the same time there must be at most only one audio with type music playing, either foreground or background.
+- The volume of background sound effect/music is usually around -35 ~ -40 dB
+- The output json must be a list as the root node containing all the audio nodes, and must be wrapped with triple quotes '''.
