@@ -406,8 +406,9 @@ with gr.Blocks(css=css) as interface:
         """
         <p>WavJourney Pipeline:<p/>
         <ul>
+        <li>Stage 0: (optional) add your customized voice preset for more personalized audio creation experience.</li>
         <li>Stage 1: generate the audio script based on the input text instruction (the default language is English, but you can actually type in your own language).</li>
-        <li>Stage 2: Select the suitable voice in the multilingual voice preset for the each character in the audio script & generate audio</li>
+        <li>Stage 2: Select the suitable voice in the multilingual voice preset for the each character in the audio script & generate audio.</li>
         </ul>
 
 
@@ -463,6 +464,22 @@ with gr.Blocks(css=css) as interface:
         loading_icon = gr.HTML(loading_icon_html)
         share_button = gr.Button(value="Share to community", elem_id="share-btn")
 
+    gr.HTML(
+        """
+        <p>Share your generations with the community by clicking the share icon at the bottom right the generated audio!<p/>
+        <p>
+        Useful tips for prompting WavJourney:
+        <p/>
+        <ul> 
+        <li>You can use vague or specific descriptions, or a combination of them. For example: "male speech about pizze" or "a man is saying: I love pizza!"</li>
+        <li> You can control the length of audio script by simply adding the restriction. For example: "generate an audio script around 10-15 lines (max length has been set to 30)"</li>
+        <li> You can specify the language of the speaker. For example: "a boy is playing with a girl, boy's speech is in Chinese while girl's speech in Japanese"</li>
+        <li> Explore more prompting techniques by yourself! 🤗</li>
+        </ul>
+
+    """
+    )
+
     # add examples
     from examples.examples import examples as WJExamples
     def example_fn(idx, _text_input):
@@ -483,7 +500,7 @@ with gr.Blocks(css=css) as interface:
 
     # System Voice Presets
     gr.Markdown(label='System Voice Presets', value='# System Voice Presets')
-    with gr.Accordion("Click to see system speakers", open=False):
+    with gr.Accordion("Click to check system speakers", open=False):
         gr.Markdown('Supported Language: English, Chinese, French, German, Hindi, Italian, Japanese, Korean')
 
         system_markdown_voice_presets = gr.Dataframe(label='System Voice Presets', headers=VOICE_PRESETS_HEADERS,
