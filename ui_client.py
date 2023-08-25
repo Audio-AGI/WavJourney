@@ -614,5 +614,5 @@ with gr.Blocks(css=css) as interface:
     # debug only
     # print_state_btn = gr.Button(value='Print State')
     # print_state_btn.click(fn=lambda state, state2: print(state, state2), inputs=[ui_state, selected_voice_presets])
-interface.queue(concurrency_count=1, max_size=20)
+interface.queue(concurrency_count=10, max_size=20)
 interface.launch()
