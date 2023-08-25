@@ -402,6 +402,18 @@ with gr.Blocks(css=css) as interface:
     """
     )
 
+    gr.HTML(
+        """
+        <p>WavJourney Pipeline:<p/>
+        <ul>
+        <li>Stage 1: generate the audio script based on the input text instruction (the default language is English, but you can actually type in your own language).</li>
+        <li>Stage 2: Select the suitable voice in the multilingual voice preset for the each character in the audio script & generate audio</li>
+        </ul>
+
+
+    """
+    )
+
 
 
     system_voice_presets = get_system_voice_presets()
@@ -422,7 +434,7 @@ with gr.Blocks(css=css) as interface:
     text_input = gr.Textbox(
         label='Input Text Instruction', 
         lines=2, 
-        placeholder="Input instruction here (e.g., an audio introduction to quantum mechanics).",
+        placeholder="Input instruction here (e.g., An introduction to AI-assisted audio content creation).",
         value=text_input_value,
         elem_id="prompt-in",)
 
@@ -472,6 +484,8 @@ with gr.Blocks(css=css) as interface:
     # System Voice Presets
     gr.Markdown(label='System Voice Presets', value='# System Voice Presets')
     with gr.Accordion("Click to see system speakers", open=False):
+        gr.Markdown('Supported Language: English, Chinese, French, German, Hindi, Italian, Japanese, Korean')
+
         system_markdown_voice_presets = gr.Dataframe(label='System Voice Presets', headers=VOICE_PRESETS_HEADERS,
                                                     value=system_voice_presets)
     # User Voice Preset Related

@@ -20,7 +20,7 @@ example1 = {
     'table_voice': """
 | Character   | Voice     |
 |-------------|-----------|
-| Narrator    | News_Male |
+| Narrator    | News_Male_En |
 
 """,
     'wav_file': 'examples/1.mp4',
@@ -46,8 +46,8 @@ example2 = {
     'table_voice': """
 | Character   | Voice     |
 |-------------|-----------|
-| Man         | Male1     |
-| Woman       | Female1   |
+| Man         | Male1_En    |
+| Woman       | Female1_En   |
 
 """,
     'wav_file': 'examples/2.mp4',
@@ -75,8 +75,8 @@ example3 = {
     'table_voice': """
 | Character   | Voice     |
 |-------------|-----------|
-| Host        | Male1     |
-| Child       | Child     |
+| Host        | Male1_En     |
+| Child       | Child_En     |
 
 """,
     'wav_file': 'examples/3.mp4',
