@@ -26,6 +26,7 @@ I want you to act as a audio script writer. I'll give you input text which is a 
 - You do not specify the length of a background audio.
 - A background audio must be wrapped around at least one foreground audio.
 - If a background sound effect has multiple sounds, please decompose it into multiple background sound effects.
+- The description of sound effects and music must be in English.
 - At the same time there must be at most only one audio with type music playing, either foreground or background.
 - The volume of background sound effect/music is usually around -35 ~ -40 dB
 - The output json must be a list as the root node containing all the audio nodes, and must be wrapped with triple quotes '''.
