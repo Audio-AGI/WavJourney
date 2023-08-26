@@ -501,7 +501,7 @@ with gr.Blocks(css=css) as interface:
     # System Voice Presets
     gr.Markdown(label='System Voice Presets', value='# System Voice Presets')
     with gr.Accordion("Click to check system speakers", open=False):
-        gr.Markdown('Supported Language: English, Chinese, French, German, Hindi, Italian, Japanese, Korean')
+        gr.Markdown('Supported Language: English, Chinese, French, German, Hindi, Italian, Japanese, Korean, Russian, Spanish, Polish, Portuguese')
 
         system_markdown_voice_presets = gr.Dataframe(label='System Voice Presets', headers=VOICE_PRESETS_HEADERS,
                                                     value=system_voice_presets)
