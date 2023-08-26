@@ -6,7 +6,6 @@ This repository contains the official implementation of ["WavJourney: Compositio
 
 Starting with a text prompt, WavJourney can create audio content with engaging storylines encompassing personalized speakers, lifelike speech in context, emotionally resonant music compositions, and impactful sound effects that enhance the auditory experience. 
 
-Check the audio examples in the [Project Page](https://audio-agi.github.io/WavJourney_demopage/)!
 Welcome to share your creation with [Discord](https://discord.com/invite/5Hqu9NmA8V) or the [HuggingFace](https://huggingface.co/spaces/Audio-AGI/WavJourney/discussions) community!
 
 <p align="center">
