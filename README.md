@@ -1,10 +1,13 @@
 # <span style="color: blue;">🎵</span> WavJourney: Compositional Audio Creation with LLMs
-[![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2307.14335) [![GitHub Stars](https://img.shields.io/github/stars/Audio-AGI/WavJourney?style=social)](https://github.com/Audio-AGI/WavJourney/) [![githubio](https://img.shields.io/badge/GitHub.io-Demo_Page-blue?logo=Github&style=flat-square)](https://audio-agi.github.io/WavJourney_demopage/) [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/Audio-AGI/WavJourney)  
+[![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2307.14335) [![GitHub Stars](https://img.shields.io/github/stars/Audio-AGI/WavJourney?style=social)](https://github.com/Audio-AGI/WavJourney/) [![githubio](https://img.shields.io/badge/GitHub.io-Demo_Page-blue?logo=Github&style=flat-square)](https://audio-agi.github.io/WavJourney_demopage/) [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/Audio-AGI/WavJourney) [![](https://dcbadge.vercel.app/api/server/5Hqu9NmA8V?style=flat&compact=True)](https://discord.com/invite/5Hqu9NmA8V)
 
 
 This repository contains the official implementation of ["WavJourney: Compositional Audio Creation with Large Language Models"](https://audio-agi.github.io/WavJourney_demopage/WavJourney_arXiv.pdf).
 
-Starting with a text prompt, WavJourney can create audio content with engaging storylines encompassing personalized speakers, lifelike speech in context, emotionally resonant music compositions, and impactful sound effects that enhance the auditory experience. Check the audio examples in the [Project Page](https://audio-agi.github.io/WavJourney_demopage/)!
+Starting with a text prompt, WavJourney can create audio content with engaging storylines encompassing personalized speakers, lifelike speech in context, emotionally resonant music compositions, and impactful sound effects that enhance the auditory experience. 
+
+Check the audio examples in the [Project Page](https://audio-agi.github.io/WavJourney_demopage/)!
+Welcome to share your creation with [Discord](https://discord.com/invite/5Hqu9NmA8V) or the [HuggingFace](https://huggingface.co/spaces/Audio-AGI/WavJourney/discussions) community!
 
 <p align="center">
   <img align="middle" width="800" src="assets/WavJourney.png"/>
