@@ -395,16 +395,19 @@ with gr.Blocks(css=css) as interface:
     """
     )
 
-    gr.HTML(
-        """
-        <p>Begin with a text prompt, and let WavJourney transform it into captivating audio content. Experience engaging audio storylines, personalized voices, lifelike speech, emotionally resonant musical compositions, and immersive sound effects!
-        <p/>
-    """
-    )
+    # gr.HTML(
+    #     """
+    #     <p>Begin with a text prompt, and let WavJourney transform it into captivating audio content. Experience engaging audio storylines, personalized voices, lifelike speech, emotionally resonant musical compositions, and immersive sound effects!
+    #     <p/>
+    # """
+    # )
+    
+    gr.Markdown(value='## WavJourney Pipeline:')
+
+    gr.Markdown(value='Begin with a text prompt, and let WavJourney transform it into captivating audio content. Experience engaging audio storylines, personalized voices, lifelike speech, emotionally resonant musical compositions, and immersive sound effects!')
 
     gr.HTML(
         """
-        <p>WavJourney Pipeline:<p/>
         <ul>
         <li>Stage 0: (optional) add your customized voice preset for more personalized audio creation experience.</li>
         <li>Stage 1: generate the audio script based on the input text instruction (the default language is English, but you can actually type in your own language).</li>
@@ -463,15 +466,26 @@ with gr.Blocks(css=css) as interface:
         community_icon = gr.HTML(community_icon_html)
         loading_icon = gr.HTML(loading_icon_html)
         share_button = gr.Button(value="Share to community", elem_id="share-btn")
+    
+    gr.Markdown(value='### Share your creation to the community!')
+    gr.HTML(
+        """
+        <ul> 
+        <li> You can share to the HuggingFace community by clicking the "Share to community" button.</li>
+        <li> You can also share your generations to our <a href="https://discord.com/invite/5Hqu9NmA8V">discord</a> channel!</li>
+        </ul>
+    """
+    )
+    
+    
+    
+    
+    gr.Markdown(value='### Useful tips for prompting WavJourney:')
 
     gr.HTML(
         """
-        <p>Share your generations with the community by clicking the share icon at the bottom right the generated audio!<p/>
-        <p>
-        Useful tips for prompting WavJourney:
-        <p/>
         <ul> 
-        <li>You can use vague or specific descriptions, or a combination of them. For example: "male speech about pizze" or "a man is saying: I love pizza!"</li>
+        <li>You can use vague or specific descriptions, or a combination of them. For example: "male speech about pizza" or "a man is saying: I love pizza!"</li>
         <li> You can control the length of audio script by simply adding the restriction. For example: "generate an audio script around 10-15 lines (max length has been set to 30)"</li>
         <li> You can specify the language of the speaker. For example: "a boy is playing with a girl, boy's speech is in Chinese while girl's speech in Japanese"</li>
         <li> Explore more prompting techniques by yourself! 🤗</li>
@@ -499,25 +513,24 @@ with gr.Blocks(css=css) as interface:
         )
 
     # System Voice Presets
-    gr.Markdown(label='System Voice Presets', value='# System Voice Presets')
-    with gr.Accordion("Click to check system speakers", open=False):
-        gr.Markdown('Supported Language: English, Chinese, French, German, Hindi, Italian, Japanese, Korean, Russian, Spanish, Polish, Portuguese')
+    gr.Markdown(label='System Voice Presets', value='### System Voice Presets')
+    with gr.Accordion("Click to display system speakers", open=False):
+        gr.Markdown('Supported Language: English, Chinese, French, German, Hindi, Italian, Japanese, Korean, Russian, Spanish, Turkish, Polish, Portuguese')
 
         system_markdown_voice_presets = gr.Dataframe(label='System Voice Presets', headers=VOICE_PRESETS_HEADERS,
                                                     value=system_voice_presets)
     # User Voice Preset Related
-    gr.Markdown('# (Optional) Speaker Customization ')
+    gr.Markdown('## (Optional) Speaker Customization ')
     with gr.Accordion("Click to add speakers", open=False):
-        gr.Markdown(label='User Voice Presets', value='## User Voice Presets')
+        gr.Markdown(label='User Voice Presets', value='### User Voice Presets')
         get_voice_preset_to_list(ui_state)
         voice_presets_df = gr.Dataframe(headers=VOICE_PRESETS_HEADERS, col_count=len(VOICE_PRESETS_HEADERS),
                                     value=get_voice_preset_to_list(ui_state), interactive=False, visible=False)
     # voice_presets_ds = gr.Dataset(components=[gr.Dataframe(visible=True)], samples=get_voice_preset_to_list(ui_state))
         del_voice_btn = gr.Button(value='Delete Selected Voice Preset', visible=False)
-        gr.Markdown(label='Add Voice Preset', value='## Add Voice Preset')
+        gr.Markdown(label='Add Voice Preset', value='### Add Voice Preset')
         gr.Markdown(
         """
-        
         What makes for good voice prompt? See detailed instructions <a href="https://github.com/gitmylo/bark-voice-cloning-HuBERT-quantizer">here</a>. 
         """
         )
@@ -533,7 +546,7 @@ with gr.Blocks(css=css) as interface:
     # disclaimer
     gr.Markdown(
         """
-    # Disclaimer
+    ## Disclaimer
     We are not responsible for audio generated using semantics created by WavJourney. Just don't use it for illegal purposes.
     """
     )
