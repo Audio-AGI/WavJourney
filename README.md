@@ -1,7 +1,7 @@
 # <span style="color: blue;">🎵</span> WavJourney: Compositional Audio Creation with LLMs
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2307.14335) [![GitHub Stars](https://img.shields.io/github/stars/Audio-AGI/WavJourney?style=social)](https://github.com/Audio-AGI/WavJourney/) [![githubio](https://img.shields.io/badge/GitHub.io-Demo_Page-blue?logo=Github&style=flat-square)](https://audio-agi.github.io/WavJourney_demopage/) [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/Audio-AGI/WavJourney) [![](https://dcbadge.vercel.app/api/server/5Hqu9NmA8V?style=flat&compact=True)](https://discord.com/invite/5Hqu9NmA8V)
 
-We are actively seeking research and commercial cooperation, if you are interested, please email xubo.liu@surrey for more details!
+We are actively seeking research and commercial cooperation in advancing AI-assisted multimedia storytelling. If you are interested, please email [xubo.liu@surrey.ac.uk](mailto:xubo.liu@surrey.ac.uk) for more details! :open_hands:	
 
 This repository contains the official implementation of ["WavJourney: Compositional Audio Creation with Large Language Models"](https://audio-agi.github.io/WavJourney_demopage/WavJourney_arXiv.pdf).
 
