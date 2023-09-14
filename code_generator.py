@@ -121,7 +121,7 @@ from APIs import TTM, TTS, TTA, MIX, CAT, COMPUTE_LEN
 
 
 fg_audio_lens = []
-wav_path = \"{output_path.absolute()}/audio\"
+wav_path = \"{output_path}/audio\"
 os.makedirs(wav_path, exist_ok=True)
 
 '''

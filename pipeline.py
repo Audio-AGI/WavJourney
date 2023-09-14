@@ -123,9 +123,9 @@ def init_session(session_id=''):
     print(f'New session created, session_id={session_id}')
     return session_id
 
-@retry(stop_max_attempt_number=3)
+@retry(stop_max_attempt_number=5)
 def input_text_to_json_script_with_retry(complete_prompt_path, api_key):
-    print("    trying ...")
+    # print("    trying ...")
     complete_prompt = get_file_content(complete_prompt_path)
     json_response = try_extract_content_from_quotes(chat_with_gpt(complete_prompt, api_key))
     json_data = json5.loads(json_response)
@@ -154,6 +154,7 @@ def input_text_to_json_script(input_text, output_path, api_key):
     return audio_script_response
 
 # Step 2: json to char-voice map
+@retry(stop_max_attempt_number=3)
 def json_script_to_char_voice_map(json_script, voices, output_path, api_key):
     json_script_content = maybe_get_content_from_file(json_script)
     prompt = get_file_content('prompts/audio_script_to_character_voice_map.prompt')

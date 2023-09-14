@@ -1,0 +1,275 @@
+{
+    "Male1_En": {
+        "id": "Male1_En",
+        "desc": "A normal male adult voice, British accent; Language: English.",
+        "npz_path": "v2/en_speaker_1"
+    },
+    "Male2_En": {
+        "id": "Male2_En",
+        "desc": "A normal male adult voice, American accent; Language: English.",
+        "npz_path": "v2/en_speaker_6"
+    },
+    "Female1_En": {
+        "id": "Female1_En",
+        "desc": "A normal female adult voice, British accent; Language: English.",
+        "npz_path": "v2/en_speaker_9"
+    },
+    "Female2_En": {
+        "id": "Female2_En",
+        "desc": "A normal female adult voice, American accent; Language: English.",
+        "npz_path": "v2/de_speaker_3"
+    },
+    "News_Male_En": {
+        "id": "News_Male_En",
+        "desc": "A male voice of a news anchor, suitable for news scenarios; Language: English.",
+        "npz_path": "data/voice_presets/npz/news_male_speaker.npz"
+    },
+    "News_Female_En": {
+        "id": "News_Female_En",
+        "desc": "A female voice of a news anchor, suitable for news scenarios; Language: English.",
+        "npz_path": "data/voice_presets/npz/news_male_speaker.npz"
+    },
+    "News_Female_Out_En": {
+        "id": "News_Female_Out_En",
+        "desc": "A female voice of a off-site news reporter, suitable for news scenario; Language: English.",
+        "npz_path": "data/voice_presets/npz/news_female_speaker_outside.npz"
+    },
+    "Child_En": {
+        "id": "Child_En",
+        "desc": "A small young boy voice; Language: English.",
+        "npz_path": "data/voice_presets/npz/child_boy.npz"
+    },
+    "Old_Man_En": {
+        "id": "Old_Man_En",
+        "desc": "A voice of an old man; Language: English.",
+        "npz_path": "data/voice_presets/npz/elder_morgen.npz"
+    },
+    "Male1_Zh": {
+        "id": "Male1_Zh",
+        "desc": "A normal male adult voice; Language: Chinese.",
+        "npz_path": "v2/zh_speaker_0"
+    },
+    "Male2_Zh": {
+        "id": "Male2_Zh",
+        "desc": "A normal male adult voice; Language: Chinese.",
+        "npz_path": "v2/zh_speaker_1"
+    },
+    "Female1_Zh": {
+        "id": "Female1_Zh",
+        "desc": "A normal female adult voice; Language: Chinese.",
+        "npz_path": "v2/zh_speaker_9"
+    },
+    "Female2_Zh": {
+        "id": "Female2_Zh",
+        "desc": "A normal female adult voice; Language: Chinese.",
+        "npz_path": "v2/zh_speaker_4"
+    },
+    "Male1_Fr": {
+        "id": "Male1_Fr",
+        "desc": "A normal male adult voice; Language: French.",
+        "npz_path": "v2/fr_speaker_0"
+    },
+    "Male2_Fr": {
+        "id": "Male2_Fr",
+        "desc": "A normal male adult voice; Language: French.",
+        "npz_path": "v2/fr_speaker_8"
+    },
+    "Female1_Fr": {
+        "id": "Female1_Fr",
+        "desc": "A normal female adult voice; Language: French.",
+        "npz_path": "v2/fr_speaker_5"
+    },
+    "Female2_Fr": {
+        "id": "Female2_Fr",
+        "desc": "A normal female adult voice; Language: French.",
+        "npz_path": "v2/fr_speaker_1"
+    },
+    "Male1_De": {
+        "id": "Male1_De",
+        "desc": "A normal male adult voice; Language: German.",
+        "npz_path": "v2/de_speaker_0"
+    },
+    "Male2_De": {
+        "id": "Male2_De",
+        "desc": "A normal male adult voice; Language: German.",
+        "npz_path": "v2/de_speaker_1"
+    },
+    "Female1_De": {
+        "id": "Female1_De",
+        "desc": "A normal female adult voice; Language: German.",
+        "npz_path": "v2/de_speaker_3"
+    },
+    "Female2_De": {
+        "id": "Female2_De",
+        "desc": "A normal female adult voice; Language: German.",
+        "npz_path": "v2/de_speaker_8"
+    },
+    "Male1_Hi": {
+        "id": "Male1_Hi",
+        "desc": "A normal male adult voice; Language: Hindi.",
+        "npz_path": "v2/hi_speaker_5"
+    },
+    "Male2_Hi": {
+        "id": "Male2_Hi",
+        "desc": "A normal male adult voice; Language: Hindi.",
+        "npz_path": "v2/hi_speaker_8"
+    },
+    "Female1_Hi": {
+        "id": "Female1_Hi",
+        "desc": "A normal female adult voice; Language: Hindi.",
+        "npz_path": "v2/hi_speaker_0"
+    },
+    "Female2_Hi": {
+        "id": "Female2_Hi",
+        "desc": "A normal female adult voice; Language: Hindi.",
+        "npz_path": "v2/hi_speaker_3"
+    },
+    "Male1_It": {
+        "id": "Male1_It",
+        "desc": "A normal male adult voice; Language: Italian.",
+        "npz_path": "v2/it_speaker_4"
+    },
+    "Male2_It": {
+        "id": "Male2_It",
+        "desc": "A normal male adult voice; Language: Italian.",
+        "npz_path": "v2/it_speaker_5"
+    },
+    "Female1_It": {
+        "id": "Female1_It",
+        "desc": "A normal female adult voice; Language: Italian.",
+        "npz_path": "v2/it_speaker_7"
+    },
+    "Female2_It": {
+        "id": "Female2_It",
+        "desc": "A normal female adult voice; Language: Italian.",
+        "npz_path": "v2/it_speaker_9"
+    },
+    "Male1_Ja": {
+        "id": "Male1_Ja",
+        "desc": "A normal male adult voice; Language: Japanese.",
+        "npz_path": "v2/ja_speaker_2"
+    },
+    "Male2_Ja": {
+        "id": "Male2_Ja",
+        "desc": "A normal male adult voice; Language: Japanese.",
+        "npz_path": "v2/ja_speaker_6"
+    },
+    "Female1_Ja": {
+        "id": "Female1_Ja",
+        "desc": "A normal female adult voice; Language: Japanese.",
+        "npz_path": "v2/ja_speaker_4"
+    },
+    "Female2_Ja": {
+        "id": "Female2_Ja",
+        "desc": "A normal female adult voice; Language: Japanese.",
+        "npz_path": "v2/ja_speaker_5"
+    },
+    "Male1_Ko": {
+        "id": "Male1_Ko",
+        "desc": "A normal male adult voice; Language: Korean.",
+        "npz_path": "v2/ko_speaker_1"
+    },
+    "Male2_Ko": {
+        "id": "Male2_Ko",
+        "desc": "A normal male adult voice; Language: Korean.",
+        "npz_path": "v2/ko_speaker_2"
+    },
+    "Female1_Ko": {
+        "id": "Female1_Ko",
+        "desc": "A normal female adult voice; Language: Korean.",
+        "npz_path": "v2/ko_speaker_0"
+    },
+    "Female1_Ru": {
+        "id": "Female1_Ru",
+        "desc": "A normal female adult voice; Language: Russian.",
+        "npz_path": "v2/ru_speaker_5"
+    },
+    "Female2_Ru": {
+        "id": "Female2_Ru",
+        "desc": "A normal female adult voice; Language: Russian.",
+        "npz_path": "v2/ru_speaker_6"
+    },
+    "Male1_Ru": {
+        "id": "Male1_Ru",
+        "desc": "A normal male adult voice; Language: Russian.",
+        "npz_path": "v2/ru_speaker_3"
+    },
+    "Male2_Ru": {
+        "id": "Male2_Ru",
+        "desc": "A normal male adult voice; Language: Russian.",
+        "npz_path": "v2/ru_speaker_4"
+    },
+    "Female1_Es": {
+        "id": "Female1_Es",
+        "desc": "A normal female adult voice; Language: Spanish.",
+        "npz_path": "v2/es_speaker_8"
+    },
+    "Female2_Es": {
+        "id": "Female2_Es",
+        "desc": "A normal female adult voice; Language: Spanish.",
+        "npz_path": "v2/es_speaker_9"
+    },
+    "Male1_Es": {
+        "id": "Male1_Es",
+        "desc": "A normal male adult voice; Language: Spanish.",
+        "npz_path": "v2/es_speaker_6"
+    },
+    "Male2_Es": {
+        "id": "Male2_Es",
+        "desc": "A normal male adult voice; Language: Spanish.",
+        "npz_path": "v2/es_speaker_7"
+    },
+    "Female1_Tr": {
+        "id": "Female1_Tr",
+        "desc": "A normal female adult voice; Language: Turkish.",
+        "npz_path": "v2/tr_speaker_4"
+    },
+    "Female2_Tr": {
+        "id": "Female2_Tr",
+        "desc": "A normal female adult voice; Language: Turkish.",
+        "npz_path": "v2/tr_speaker_5"
+    },
+    "Male1_Tr": {
+        "id": "Male1_Tr",
+        "desc": "A normal male adult voice; Language: Turkish.",
+        "npz_path": "v2/tr_speaker_2"
+    },
+    "Male2_Tr": {
+        "id": "Male2_Tr",
+        "desc": "A normal male adult voice; Language: Turkish.",
+        "npz_path": "v2/tr_speaker_3"
+    },
+    "Male1_Pt": {
+        "id": "Male1_Pt",
+        "desc": "A normal male adult voice; Language: Purtuguese.",
+        "npz_path": "v2/pt_speaker_0"
+    },
+    "Male2_Pt": {
+        "id": "Male2_Pt",
+        "desc": "A normal male adult voice; Language: Purtuguese.",
+        "npz_path": "v2/pt_speaker_1"
+    },
+    "Female1_Pl": {
+        "id": "Female1_Pl",
+        "desc": "A normal female adult voice; Language: Polish.",
+        "npz_path": "v2/pl_speaker_4"
+    },
+    "Female2_Pl": {
+        "id": "Female2_Pl",
+        "desc": "A normal female adult voice; Language: Polish.",
+        "npz_path": "v2/pl_speaker_6"
+    },
+    "Male1_Pl": {
+        "id": "Male1_Pl",
+        "desc": "A normal male adult voice; Language: Polish.",
+        "npz_path": "v2/pl_speaker_5"
+    },
+    "Male2_Pl": {
+        "id": "Male2_Pl",
+        "desc": "A normal male adult voice; Language: Polish.",
+        "npz_path": "v2/pl_speaker_7"
+    }
+}
+
+
+

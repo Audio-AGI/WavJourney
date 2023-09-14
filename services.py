@@ -3,6 +3,7 @@ import yaml
 import logging
 import nltk
 import torch
+import numpy as np
 import torchaudio
 from torchaudio.transforms import SpeedPerturbation
 from APIs import WRITE_AUDIO, LOUDNESS_NORM
@@ -44,18 +45,25 @@ logging.info(f'MusicGen ({ttm_model_size}) is loaded ...')
 """
 Initialize the BarkModel here
 """
-from transformers import BarkModel, AutoProcessor
+# from transformers import BarkModel, AutoProcessor
+# tts_model = BarkModel.from_pretrained("suno/bark")
+# device = "cuda:0" if torch.cuda.is_available() else "cpu"
+# tts_model = tts_model.to(device)
+# tts_model = tts_model.to_bettertransformer()    # Flash attention
+# SAMPLE_RATE = tts_model.generation_config.sample_rate
+# SEMANTIC_TEMPERATURE = 0.9
+# COARSE_TEMPERATURE = 0.5
+# FINE_TEMPERATURE = 0.5
+# processor = AutoProcessor.from_pretrained("suno/bark")
+
 SPEED = float(config['Text-to-Speech']['speed'])
 speed_perturb = SpeedPerturbation(32000, [SPEED])
-tts_model = BarkModel.from_pretrained("suno/bark")
-device = "cuda:0" if torch.cuda.is_available() else "cpu"
-tts_model = tts_model.to(device)
-tts_model = tts_model.to_bettertransformer()    # Flash attention
-SAMPLE_RATE = tts_model.generation_config.sample_rate
-SEMANTIC_TEMPERATURE = 0.9
-COARSE_TEMPERATURE = 0.5
-FINE_TEMPERATURE = 0.5
-processor = AutoProcessor.from_pretrained("suno/bark")
+
+from bark.generation import generate_text_semantic, preload_models
+from bark.api import semantic_to_waveform
+from bark import SAMPLE_RATE
+preload_models()
+
 logging.info('Bark model is loaded ...')
 
 
@@ -133,6 +141,59 @@ def generate_music():
         return jsonify({'API error': str(e)}), 500
 
 
+# @app.route('/generate_speech', methods=['POST'])
+# def generate_speech():
+#     # Receive the text from the POST request
+#     data = request.json
+#     text = data['text']
+#     speaker_id = data['speaker_id']
+#     speaker_npz = data['speaker_npz']
+#     volume = float(data.get('volume', -35))
+#     output_wav = data.get('output_wav', 'out.wav')
+    
+#     logging.info(f'TTS (Bark): Speaker: {speaker_id}, Volume: {volume} dB, Prompt: {text}')
+
+#     try:   
+#         # Generate audio using the global pipe object
+#         text = text.replace('\n', ' ').strip()
+#         sentences = nltk.sent_tokenize(text)
+#         silence = torch.zeros(int(0.1 * SAMPLE_RATE), device=device).unsqueeze(0)  # 0.1 second of silence
+
+#         pieces = []
+#         for sentence in sentences:
+#             inputs = processor(sentence, voice_preset=speaker_npz).to(device)
+#             # NOTE: you must run the line below, otherwise you will see the runtime error
+#             # RuntimeError: view size is not compatible with input tensor's size and stride (at least one dimension spans across two contiguous subspaces). Use .reshape(...) instead.
+#             inputs['history_prompt']['coarse_prompt'] = inputs['history_prompt']['coarse_prompt'].transpose(0, 1).contiguous().transpose(0, 1)
+
+#             with torch.inference_mode():
+#                 # TODO: min_eos_p?
+#                 output = tts_model.generate(
+#                     **inputs,
+#                     do_sample = True,
+#                     semantic_temperature = SEMANTIC_TEMPERATURE,
+#                     coarse_temperature = COARSE_TEMPERATURE,
+#                     fine_temperature = FINE_TEMPERATURE
+#                 )
+
+#             pieces += [output, silence]
+
+#         result_audio = torch.cat(pieces, dim=1)
+#         wav_tensor = result_audio.to(dtype=torch.float32).cpu()
+#         wav = torchaudio.functional.resample(wav_tensor, orig_freq=SAMPLE_RATE, new_freq=32000)
+#         wav = speed_perturb(wav.float())[0].squeeze(0)
+#         wav = wav.numpy()
+#         wav = LOUDNESS_NORM(wav, volumn=volume)
+#         WRITE_AUDIO(wav, name=output_wav)
+
+#         # Return success message and the filename of the generated audio
+#         return jsonify({'message': f'Text-to-Speech generated successfully | {speaker_id}: {text}', 'file': output_wav})
+
+#     except Exception as e:
+#         # Return error message if something goes wrong
+#         return jsonify({'API error': str(e)}), 500
+
+
 @app.route('/generate_speech', methods=['POST'])
 def generate_speech():
     # Receive the text from the POST request
@@ -147,31 +208,26 @@ def generate_speech():
 
     try:   
         # Generate audio using the global pipe object
-        text = text.replace('\n', ' ').strip()
-        sentences = nltk.sent_tokenize(text)
-        silence = torch.zeros(int(0.1 * SAMPLE_RATE), device=device).unsqueeze(0)  # 0.1 second of silence
+        script = text.replace("\n", " ").strip()
+        sentences = nltk.sent_tokenize(script)
+
+        GEN_TEMP = 0.9
+        silence = np.zeros(int(0.25 * SAMPLE_RATE))  # quarter second of silence
 
         pieces = []
         for sentence in sentences:
-            inputs = processor(sentence, voice_preset=speaker_npz).to(device)
-            # NOTE: you must run the line below, otherwise you will see the runtime error
-            # RuntimeError: view size is not compatible with input tensor's size and stride (at least one dimension spans across two contiguous subspaces). Use .reshape(...) instead.
-            inputs['history_prompt']['coarse_prompt'] = inputs['history_prompt']['coarse_prompt'].transpose(0, 1).contiguous().transpose(0, 1)
+            semantic_tokens = generate_text_semantic(
+                sentence,
+                history_prompt=speaker_npz,
+                temp=GEN_TEMP,
+                min_eos_p=0.05,  # this controls how likely the generation is to end
+            )
 
-            with torch.inference_mode():
-                # TODO: min_eos_p?
-                output = tts_model.generate(
-                    **inputs,
-                    do_sample = True,
-                    semantic_temperature = SEMANTIC_TEMPERATURE,
-                    coarse_temperature = COARSE_TEMPERATURE,
-                    fine_temperature = FINE_TEMPERATURE
-                )
+            audio_array = semantic_to_waveform(semantic_tokens, history_prompt=speaker_npz, temp=0.5)
+            pieces += [audio_array, silence.copy()]
 
-            pieces += [output, silence]
-
-        result_audio = torch.cat(pieces, dim=1)
-        wav_tensor = result_audio.to(dtype=torch.float32).cpu()
+        result_audio = np.concatenate(pieces)
+        wav_tensor = torch.tensor(result_audio).unsqueeze(0)
         wav = torchaudio.functional.resample(wav_tensor, orig_freq=SAMPLE_RATE, new_freq=32000)
         wav = speed_perturb(wav.float())[0].squeeze(0)
         wav = wav.numpy()
