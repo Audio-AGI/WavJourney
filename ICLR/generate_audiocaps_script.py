@@ -29,7 +29,7 @@ def generate_script(input_text, output_path, api_key, basename):
 if __name__ == '__main__':
     json_path = '/home/lxb/Disk_SSD/WavJourney/ICLR/audiocaps.json'
     output_dir = 'ICLR/AudioCaps'
-    api_key = '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'
+    api_key = ''
 
     prompt = '(overall length must be 10 seconds)'
 
