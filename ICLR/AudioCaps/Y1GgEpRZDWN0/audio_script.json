@@ -1,0 +1,9 @@
+
+[
+  {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Low murmur of the soft voice of the second man"},
+  {"audio_type": "sound_effect", "layout": "background", "id":2, "action": "begin", "vol": -35, "desc": "The subtle rustle of papers shuffling"},
+  {"audio_type": "speech", "layout": "foreground", "character": "Woman", "vol": -20, "text": "This dialogue is the conversation of the woman and the man, going on for the duration of 10 seconds"},
+  {"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -20, "text": "This dialogue is the continuation of the conversation of the woman and the man, continuing for the duration of 10 seconds"},
+  {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"},
+  {"audio_type": "sound_effect", "layout": "background", "id":2, "action": "end"}
+]

@@ -1,0 +1,6 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 3, "desc": "Sirens blaring from a vehicle up close"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 3, "desc": "Sirens blaring from a vehicle moving"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 4, "desc": "The sound of sirens diminishing into the distance"}
+]

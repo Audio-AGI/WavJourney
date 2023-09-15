@@ -1,0 +1,9 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 2, "desc": "Sharp burst sound"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 1, "desc": "Powerful explosion sound"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 2, "desc": "Low pitch grunting sound"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 1, "desc": "Aggressive growling sound"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 2, "desc": "Loud explosion sound"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 2, "desc": "Intense burst sound"}
+]

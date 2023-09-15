@@ -1,0 +1,6 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "begin", "vol": -35, "desc": "Vibrations from an idling engine"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -20, "text": "We're at the start line, ready to go. The engine is humming. We're set for an adventurous journey."},
+    {"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "end"}
+]

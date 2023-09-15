@@ -1,0 +1,7 @@
+
+[
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 3, "desc": "Structure of constant light rustling"},
+{"audio_type": "speech", "layout": "foreground", "character": "Woman", "vol": -25, "text": "Hello, can you hear me? It's been quite a while."},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 2, "desc": "Hissing noise"},
+{"audio_type": "speech", "layout": "foreground", "character": "Woman", "vol": -25, "text": "Hope it stops soon."}
+]

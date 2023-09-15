@@ -1,0 +1,6 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 2, "desc": "Loud burping sound"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 5, "desc": "High pitched screaming sound"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -35, "len": 3, "desc": "Silence"}
+]

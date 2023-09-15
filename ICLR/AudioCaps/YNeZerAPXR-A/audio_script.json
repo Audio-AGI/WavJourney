@@ -1,0 +1,11 @@
+
+[
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 2, "desc": "A man and a woman laughing for two seconds"},
+{"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -15, "text": "Interesting conversation follows"},
+{"audio_type": "speech", "layout": "foreground", "character": "Woman", "vol": -15, "text": "Continuation of conversation"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 1, "desc": "Applause, someone claps"},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Jingling bell starts"},
+{"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -15, "text": "Continuation of man's dialogue"},
+{"audio_type": "speech", "layout": "foreground", "character": "Woman", "vol": -15, "text": "Continuation of woman's dialogue"},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

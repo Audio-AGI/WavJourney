@@ -1,0 +1,7 @@
+
+[
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Continuous water gurgling"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 5, "desc": "Vehicle engine starting and idling"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 5, "desc": "Vehicle engine accelerating with a loud exhaust"},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

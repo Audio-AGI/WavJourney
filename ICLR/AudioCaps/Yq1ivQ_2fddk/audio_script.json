@@ -1,0 +1,11 @@
+
+[
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "City street ambiance, cars passing by"},
+{"audio_type": "speech", "layout": "foreground", "character": "Man 1", "vol": -25, "text": "It's a beautiful day, isn't it?"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 1, "desc": "Footsteps approaching"},
+{"audio_type": "speech", "layout": "foreground", "character": "Man 2", "vol": -25, "text": "Indeed, couldn't agree more."},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 1, "desc": "More footsteps approaching"},
+{"audio_type": "speech", "layout": "foreground", "character": "Man 3", "vol": -25, "text": "What are you guys talking about?"},
+{"audio_type": "speech", "layout": "foreground", "character": "Man 1", "vol": -25, "text": "Just how lovely this day is."},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

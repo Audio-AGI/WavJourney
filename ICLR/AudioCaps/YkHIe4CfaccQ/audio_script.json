@@ -1,0 +1,8 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 2, "desc": "Goat bleats first time"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 2, "desc": "Goat bleats second time"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 2, "desc": "Goat bleats third time"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 2, "desc": "Goat bleats fourth time"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 2, "desc": "Goat bleats fifth time"}
+]

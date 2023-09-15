@@ -1,0 +1,9 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Birds chirping sound"},
+    {"audio_type": "sound_effect", "layout": "background", "id":2, "action": "begin", "vol": -35, "desc": "Wind blowing into the microphone"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 1, "desc": "Dog barking sound"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -20, "text": "Hello, I'm walking around now while my dog is with me."},
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"},
+    {"audio_type": "sound_effect", "layout": "background", "id":2, "action": "end"}
+]

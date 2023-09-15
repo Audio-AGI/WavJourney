@@ -1,0 +1,5 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 5, "desc": "Sound of fresh water trickling over rocks"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 5, "desc": "Sound of water being poured into a glass jug"}
+]

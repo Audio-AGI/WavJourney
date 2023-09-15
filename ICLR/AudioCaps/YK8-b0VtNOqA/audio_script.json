@@ -1,0 +1,11 @@
+
+[
+  {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 2, "desc": "Sound of a broom sweeping the floor"},
+  {"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "begin", "vol": -35, "desc": "Ambient chatter of a man conversing"},
+  {"audio_type": "sound_effect", "layout": "background", "id": 2, "action": "begin", "vol": -35, "desc": "Ambient chatter of a woman conversing"},
+  {"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -25, "text": "Anything else you would like to add?"},
+  {"audio_type": "speech", "layout": "foreground", "character": "Woman", "vol": -25, "text": "Let's discuss this further."},
+  {"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "end"},
+  {"audio_type": "sound_effect", "layout": "background", "id": 2, "action": "end"},
+  {"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 3, "desc": "Distinctive sound of horses neighing"}
+]

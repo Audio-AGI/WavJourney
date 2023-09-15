@@ -1,0 +1,7 @@
+
+[
+{"audio_type": "speech", "layout": "foreground", "character": "Adult Male", "vol": -20, "text": "Ladies and gentlemen, I appreciate you all for being here today. The future is bright for us, and together we will make a change. Thank you."},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 3, "desc": "Casual clapping sound for 3 seconds"},
+
+{"audio_type": "music", "layout": "foreground", "vol": -25, "len": 6, "desc": "Piano outro music"}
+]

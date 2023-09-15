@@ -1,0 +1,12 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Ocean waves trickling"},
+    {"audio_type": "sound_effect", "layout": "background", "id":2, "action": "begin", "vol": -35, "desc": "Ocean waves splashing"},
+    {"audio_type": "sound_effect", "layout": "background", "id":3, "action": "begin", "vol": -35, "desc": "Wind blowing into a microphone"},
+
+    {"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -20, "text": "He was an old man who fished alone in a skiff in the Gulf Stream and he had gone eighty-four days now without taking a fish."},
+    
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"},
+    {"audio_type": "sound_effect", "layout": "background", "id":2, "action": "end"},
+    {"audio_type": "sound_effect", "layout": "background", "id":3, "action": "end"}
+]

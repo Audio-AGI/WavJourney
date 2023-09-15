@@ -1,0 +1,8 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Ambient sound of a bustling crowd"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -15, "text": "Let's get ready for the race"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 2, "desc": "Distant horn blowing"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 3, "desc": "Race car engine revving and speeding away"},
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

@@ -1,0 +1,6 @@
+
+[
+  {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 3, "desc": "Vibrations from a small engine gradually increasing in volume"},
+  {"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 2, "desc": "The small engine sound at its loudest as it passes by"},
+  {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 5, "desc": "The small engine sound fading away into the distance"}
+]

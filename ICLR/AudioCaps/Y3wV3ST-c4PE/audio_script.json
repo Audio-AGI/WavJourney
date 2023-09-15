@@ -1,0 +1,5 @@
+
+[
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 5, "desc": "Low ticktock sounds"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 5, "desc": "Objects moving on a surface sound"}
+]

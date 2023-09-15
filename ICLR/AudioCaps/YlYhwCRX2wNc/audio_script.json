@@ -1,0 +1,8 @@
+
+[
+  {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Plates rattling and clanking"},
+  {"audio_type": "sound_effect", "layout": "background", "id":2, "action": "begin", "vol": -35, "desc": "Sound of a faucet pouring water"},
+  {"audio_type": "speech", "layout": "foreground", "character": "Woman", "vol": -25, "text": "I've been thinking about this lately... We should be very careful when it comes to our water usage, not just for us, but for the future."},
+  {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"},
+  {"audio_type": "sound_effect", "layout": "background", "id":2, "action": "end"}
+]

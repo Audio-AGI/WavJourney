@@ -1,0 +1,5 @@
+[
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 3, "desc": "Tapping sound, a rhythmic repeating sound"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 4, "desc": "Water spraying sound, high-pressure"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 3, "desc": "Tapping sound resumes, a rhythmic repeating sound"}
+]

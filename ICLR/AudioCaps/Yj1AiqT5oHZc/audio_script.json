@@ -1,0 +1,9 @@
+
+[
+{"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "begin", "vol": -35, "desc": "Random electronic beeping"},
+{"audio_type": "speech", "layout": "foreground", "character": "Adult Male", "vol": -25, "text": "I... uh... it's... um..."},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 5, "desc": "Electronic beep"},
+{"audio_type": "speech", "layout": "foreground", "character": "Adult Male", "vol": -25, "text": "You know... Um... It's... I mean..."},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 5, "desc": "Electronic beep"},
+{"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "end"}
+]

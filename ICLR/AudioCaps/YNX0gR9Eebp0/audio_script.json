@@ -1,0 +1,5 @@
+
+[
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 3, "desc": "Water splashing sound"},
+{"audio_type": "speech", "layout": "foreground", "character": "Speaker", "vol": -15, "text": "Welcome to the world of audio scripts. Please, sit back and enjoy."}
+]

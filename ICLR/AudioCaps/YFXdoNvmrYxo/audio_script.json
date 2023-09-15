@@ -1,0 +1,8 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "begin", "vol": -35, "desc": "Birds chirping continuously"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Child", "vol": -20, "text": "Hello, how are you doing?"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -15, "text": "I'm doing well, thank you."},
+    {"audio_type": "speech", "layout": "foreground", "character": "Young Boy", "vol": -25, "text": "mmmm"},
+    {"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "end"}
+]

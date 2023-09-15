@@ -1,0 +1,7 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Continuous sound of an aircraft engine"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 5, "desc": "Increase in the volume of aircraft engine sound"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 2, "desc": "Rapid gunshots firing"},
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

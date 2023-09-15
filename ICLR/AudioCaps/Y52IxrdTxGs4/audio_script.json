@@ -1,0 +1,7 @@
+
+[
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 3, "desc": "Large explosion sound"},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Continuous heartbeat sound"},
+{"audio_type": "speech", "layout": "foreground", "character": "Person", "vol": -25, "text": "This is a horrifying scene."},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

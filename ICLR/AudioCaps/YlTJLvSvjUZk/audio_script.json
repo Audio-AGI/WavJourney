@@ -1,0 +1,8 @@
+
+[
+    {"audio_type": "music", "layout": "background", "id": 1, "action": "begin", "vol": -35, "desc": "Instrumental music playing softly"},
+
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 10, "desc": "Person whistling a cheerful tune"},
+
+    {"audio_type": "music", "layout": "background", "id": 1, "action": "end"}
+]

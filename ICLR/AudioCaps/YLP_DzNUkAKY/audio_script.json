@@ -1,0 +1,10 @@
+
+[
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Engine humming"},
+{"audio_type": "sound_effect", "layout": "background", "id":2, "action": "begin", "vol": -35, "desc": "People speaking in the distance"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 6, "desc": "Engine humming intensifies"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 2, "desc": "People speaking louder"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 2, "desc": "Hissing sound"},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"},
+{"audio_type": "sound_effect", "layout": "background", "id":2, "action": "end"}
+]

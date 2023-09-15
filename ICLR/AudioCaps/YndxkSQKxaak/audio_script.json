@@ -1,0 +1,6 @@
+
+[
+  {"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "begin", "vol": -35, "desc": "Engine running sound"},
+  {"audio_type": "speech", "layout": "foreground", "character": "Male", "vol": -20, "text": "The situation looks dire, but we've got it under control."},
+  {"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "end"}
+]

@@ -1,0 +1,9 @@
+
+[
+  {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 3, "desc": "A low slow groan"},
+  {"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 2, "desc": "Crash"},
+  {"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "begin", "vol": -35, "desc": "Distant birds chirping"},
+  {"audio_type": "speech", "layout": "foreground", "character": "Man1", "vol": -25, "text": "What was that?"},
+  {"audio_type": "speech", "layout": "foreground", "character": "Man2", "vol": -25, "text": "I don't know, let's check it out."},
+  {"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "end"}
+]

@@ -1,0 +1,9 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 3, "desc": "Metal clanking"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 4, "desc": "Gears cranking"},
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Continuous steam hissing"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 3, "desc": "Metal clanking"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 4, "desc": "Gears cranking"},
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

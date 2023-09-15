@@ -1,0 +1,8 @@
+
+[
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "General city ambience, faint traffic sound"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 2, "desc": "The sound of a vehicle approaching"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -17, "len": 3, "desc": "The sound of a vehicle downshifting"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 5, "desc": "The sound of a vehicle passing by"},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

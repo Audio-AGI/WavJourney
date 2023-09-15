@@ -1,0 +1,6 @@
+
+[
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "General crowd noise, murmuring"},
+{"audio_type": "speech", "layout": "foreground", "character": "Woman", "vol": -20, "text": "I stand before you today to share some important news"},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

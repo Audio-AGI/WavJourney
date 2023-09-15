@@ -1,0 +1,12 @@
+
+[
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Mild wind blowing"},
+{"audio_type": "sound_effect", "layout": "background", "id":2, "action": "begin", "vol": -35, "desc": "Distant engine hum"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 1, "desc": "Wind gust"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 1, "desc": "Engine revving"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 1, "desc": "Engine revving"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 1, "desc": "Wind gust"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 1, "desc": "Engine revving"},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"},
+{"audio_type": "sound_effect", "layout": "background", "id":2, "action": "end"}
+]

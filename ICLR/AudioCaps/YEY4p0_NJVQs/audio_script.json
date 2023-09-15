@@ -1,0 +1,6 @@
+
+[
+  {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Soft whispers of the wind, barely audible background noise"},
+  {"audio_type": "speech", "layout": "foreground", "character": "Adult Female", "vol": -20, "text": "Hello world. It's quiet around. I can hear my own heartbeat."},
+  {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

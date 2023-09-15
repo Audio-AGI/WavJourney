@@ -1,0 +1,8 @@
+
+[
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Helicopter engine running"},
+{"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -20, "text": "Attention all units, we have incoming on the south perimeter, take cover"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 1, "desc": "Intercom beep"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 2, "desc": "Several gunshots firing in a row"},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

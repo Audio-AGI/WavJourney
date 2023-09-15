@@ -1,0 +1,5 @@
+
+[
+{"audio_type": "speech", "layout": "foreground", "character": "Child", "vol": -25, "text": "Mum, where are you?"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 7, "desc": "Distant toilet flushing sound"}
+]

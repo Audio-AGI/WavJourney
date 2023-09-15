@@ -1,0 +1,10 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Sound of vehicles passing"},
+    {"audio_type": "sound_effect", "layout": "background", "id":2, "action": "begin", "vol": -35, "desc": "Sound of birds chirping"},
+    {"audio_type": "sound_effect", "layout": "background", "id":3, "action": "begin", "vol": -35, "desc": "Sound of distant voices"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 10, "desc": "Mixed sounds of vehicles, birds, and distant voices"},
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"},
+    {"audio_type": "sound_effect", "layout": "background", "id":2, "action": "end"},
+    {"audio_type": "sound_effect", "layout": "background", "id":3, "action": "end"}
+]

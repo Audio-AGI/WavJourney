@@ -1,0 +1,11 @@
+
+[
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 2, "desc": "Bells chiming"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 3, "desc": "Lawn mower engine running"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 5, "desc": "Steam engine running and train whistle blowing"},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Crowd of people talking"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 2, "desc": "Bells chiming"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 3, "desc": "Lawn mower engine running"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 5, "desc": "Steam engine running and train whistle blowing"},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

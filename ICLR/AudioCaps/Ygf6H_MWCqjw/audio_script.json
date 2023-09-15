@@ -1,0 +1,5 @@
+
+[
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 6, "desc": "Duck quacking sound"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 4, "desc": "Plastic camera muffling sound"}
+]

@@ -1,0 +1,5 @@
+
+[
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 5, "desc": "Bus accelerating, engine revving"}, 
+{"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -15, "text": "We are now leaving the station, please remain seated during the journey"}
+]

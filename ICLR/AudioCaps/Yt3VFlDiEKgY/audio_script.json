@@ -1,0 +1,6 @@
+
+[
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Buzzing sound of a fly"},
+{"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -20, "text": "What a pesky fly! Always making a buzz whenever I'm trying to concentrate."},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

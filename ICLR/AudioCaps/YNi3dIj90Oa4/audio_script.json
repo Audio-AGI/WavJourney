@@ -1,0 +1,7 @@
+
+[
+  {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 3, "desc": "Multiple gunshots"},
+  {"audio_type": "speech", "layout": "foreground", "character": "Man1", "vol": -25, "text": "Did you hear that?"},
+  {"audio_type": "speech", "layout": "foreground", "character": "Man2", "vol": -25, "text": "Yes, it sounded like gunshots."},
+  {"audio_type": "music", "layout": "foreground", "vol": -15, "len": 4, "desc": "Intense suspenseful music"}
+]

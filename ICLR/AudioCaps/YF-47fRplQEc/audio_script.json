@@ -1,0 +1,8 @@
+
+[
+{"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "begin", "vol": -35, "desc": "Continuous sheep bleating"},
+{"audio_type": "speech", "layout": "foreground", "character": "Lady 1", "vol": -20, "text": "Isn't this the most serene sight you've ever experienced?"},
+{"audio_type": "speech", "layout": "foreground", "character": "Lady 2", "vol": -20, "text": "It absolutely is. I love how peaceful it is here."},
+{"audio_type": "speech", "layout": "foreground", "character": "Lady 3", "vol": -15, "text": "And those cute little lambs are just the cherry on top."},
+{"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "end"}
+]

@@ -1,0 +1,10 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Baby crying in a subtle manner"},
+    {"audio_type": "sound_effect", "layout": "background", "id":2, "action": "begin", "vol": -35, "desc": "Murmur of people communicating in distant"},
+    {"audio_type": "speech", "layout": "foreground", "character": "person 1", "vol": -20, "text": "Could someone attend to the baby, please?"},
+    {"audio_type": "speech", "layout": "foreground", "character": "person 2", "vol": -18, "text": "Sure, I got it."},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 3, "desc": "Sound of someone moving towards the baby"},
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"},
+    {"audio_type": "sound_effect", "layout": "background", "id":2, "action": "end"}
+]

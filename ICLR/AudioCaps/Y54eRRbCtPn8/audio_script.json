@@ -1,0 +1,8 @@
+
+[
+    {"audio_type": "speech", "layout": "foreground", "character": "Woman", "vol": -20, "text": "This is a brief message from me."},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 5, "desc": "The sound of slight room echo"},
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "General atmosphere of a quiet room"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 5, "desc": "Subtle closing sound of the audio"},
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

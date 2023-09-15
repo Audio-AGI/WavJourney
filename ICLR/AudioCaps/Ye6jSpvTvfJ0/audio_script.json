@@ -1,0 +1,8 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "begin", "vol": -35, "desc": "Sound of light rain"},
+    {"audio_type": "sound_effect", "layout": "background", "id": 2, "action": "begin", "vol": -35, "desc": "Distant thunder sound"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 10, "desc": "Continuous light rain scaling up to light thunderstorm for 10 seconds"},
+    {"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "end"},
+    {"audio_type": "sound_effect", "layout": "background", "id": 2, "action": "end"}
+]

@@ -1,0 +1,7 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "begin", "vol": -35, "desc": "Soft splashing of water"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Small Child", "vol": -20, "text": "Look, the water is splashing all over!"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Woman", "vol": -17, "text": "Yes, dear. It's very beautiful, right?"},
+    {"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "end"}
+]

@@ -1,0 +1,6 @@
+
+[
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 5, "desc": "Tapping clicking sound"},
+
+{"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -15, "text": "Hmmm, what an interesting day it's been."}
+]

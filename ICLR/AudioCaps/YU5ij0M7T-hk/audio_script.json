@@ -1,0 +1,6 @@
+
+[
+  {"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 2, "desc": "A soft rustling sound like leaves in the wind"},
+  {"audio_type": "speech", "layout": "foreground", "character": "Male Speaker", "vol": -15, "text": "What a peaceful day it is!"},
+  {"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 3, "desc": "The low creaking of an old wooden door slowly opening"}
+]

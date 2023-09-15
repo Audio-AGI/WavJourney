@@ -1,0 +1,6 @@
+
+[
+    {"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -20, "text": "Here we go with the cutting process"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 6, "desc": "Sound of wood being sawed"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 3, "desc": "Sound of paper shuffling"}
+]

@@ -1,0 +1,7 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "A person humming"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 5, "desc": "Distant traffic passing by"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 5, "desc": "Distant siren ringing"},
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

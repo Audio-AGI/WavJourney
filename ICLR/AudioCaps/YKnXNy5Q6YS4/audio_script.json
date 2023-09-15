@@ -1,0 +1,8 @@
+
+[
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Buzzing of various insects"},
+{"audio_type": "sound_effect", "layout": "background", "id":2, "action": "begin", "vol": -35, "desc": "Rustling of leaves and branches"},
+{"audio_type": "speech", "layout": "foreground", "character": "Adult Male", "vol": -15, "text": "This forest is teeming with life, buzzing with countless insects and stirring with the rustle of nature herself."},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"},
+{"audio_type": "sound_effect", "layout": "background", "id":2, "action": "end"}
+]

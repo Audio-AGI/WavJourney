@@ -1,0 +1,6 @@
+
+[
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 3, "desc": "Mechanical noises"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 2, "desc": "Pigs oinking"},
+{"audio_type": "speech", "layout": "foreground", "vol": -15, "character": "Man", "text": "Quite a spectacle, isn't it?"}
+]

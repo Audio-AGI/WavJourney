@@ -1,0 +1,8 @@
+
+[
+{"audio_type": "music", "layout": "background", "id": 1, "action": "begin", "vol": -35, "desc": "Soft, distant music"},
+{"audio_type": "sound_effect", "layout": "background", "id": 2, "action": "begin", "vol": -35, "desc": "Continuous frog chirping sounds"},
+{"audio_type": "speech", "layout": "foreground", "character": "Woman", "vol": -20, "text": "Hello everyone, isn't it a beautiful evening? You can hear the frogs chirping and even the distant music."},
+{"audio_type": "sound_effect", "layout": "background", "id": 2, "action": "end"},
+{"audio_type": "music", "layout": "background", "id": 1, "action": "end"}
+]

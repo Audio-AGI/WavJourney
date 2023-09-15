@@ -1,0 +1,8 @@
+
+[
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 3, "desc": "A bell clanking"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 2, "desc": "Laughter of a couple of men"},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Distant crowd chatter"},
+{"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -15, "text": "I can't believe we're finally here."},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

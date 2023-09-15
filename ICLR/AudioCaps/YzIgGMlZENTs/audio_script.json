@@ -1,0 +1,7 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 1, "desc": "A duck quacking"},
+    {"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "begin", "vol": -35, "desc": "Distant chirping of birds"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -15, "text": "It's such a beautiful day, isn't it?"},
+    {"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "end"}
+]

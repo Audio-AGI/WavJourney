@@ -1,0 +1,5 @@
+
+[
+  {"audio_type": "speech", "layout": "foreground", "character": "Person", "vol": -20, "text": "Hello there, nice to meet you."},
+  {"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 2, "desc": "Loud click, like a door latching"}
+]

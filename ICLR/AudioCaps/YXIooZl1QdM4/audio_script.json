@@ -1,0 +1,8 @@
+
+[
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 2, "desc": "Loud, long burp sound"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 2, "desc": "Loud, rumbling burp sound"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 2, "desc": "Short, sharp burp sound"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 2, "desc": "Low, rolling burp sound"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 2, "desc": "High-pitched, squeaky burp sound"}
+]

@@ -1,0 +1,9 @@
+
+[
+  {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Thunder in the distance"},
+  {"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 3, "desc": "Close up thunder sound"},
+  {"audio_type": "sound_effect", "layout": "background", "id":2, "action": "begin", "vol": -35, "desc": "Gentle rain falling"},
+  {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 7, "desc": "Gentle rain hitting a window"},
+  {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"},
+  {"audio_type": "sound_effect", "layout": "background", "id":2, "action": "end"}
+]

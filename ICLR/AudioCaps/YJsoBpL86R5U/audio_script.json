@@ -1,0 +1,6 @@
+
+[
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Crowd ambiance, people murmuring"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 3, "desc": "Goat bleating sound"},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

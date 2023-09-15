@@ -1,0 +1,9 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 3, "desc": "Distant chattering human voices"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 7, "desc": "Sounds of a vehicle moving, motor running, and tires rolling"},
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Background city hum"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 3, "desc": "Distant chattering human voices fading out"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 7, "desc": "Sounds of a vehicle moving, motor running, and tires rolling on highway"},
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

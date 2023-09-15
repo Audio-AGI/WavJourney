@@ -1,0 +1,10 @@
+
+[
+    {"audio_type": "music", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Instrumental music playing softly in the background"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Woman", "vol": -23, "text": "This is the beginning of a wonderful journey where we will explore the deepest secrets of the universe."},
+    {"audio_type": "music", "layout": "background", "id":1, "action": "end"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -17, "len": 4, "desc": "Sound of the first few raindrops falling"},
+    {"audio_type": "sound_effect", "layout": "background", "id":2, "action": "begin", "vol": -35, "desc": "Overall sound of rain pouring"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 2, "desc": "Sound of raindrops hitting a surface"},
+    {"audio_type": "sound_effect", "layout": "background", "id":2, "action": "end"}
+]

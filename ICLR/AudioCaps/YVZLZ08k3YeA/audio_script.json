@@ -1,0 +1,6 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Continuous snoring sound"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -20, "text": "Here, as you can hear, there is a sound from a man who is deeply asleep."},
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

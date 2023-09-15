@@ -1,0 +1,6 @@
+
+[
+  {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 3, "desc": "Rumbling sound approaching"},
+  {"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 2, "desc": "Spray of liquid"},
+  {"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -15, "text": "Woah, that was close!"}
+]

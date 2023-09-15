@@ -1,0 +1,6 @@
+
+[
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "ambient clinking and clanking of metal"},
+{"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -20, "text": "I couldn’t believe what I was seeing. It was truly a magnificent sight."},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

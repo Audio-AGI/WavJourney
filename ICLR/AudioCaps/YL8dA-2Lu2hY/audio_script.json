@@ -1,0 +1,6 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 2, "desc": "First loud wolf whistle"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -35, "len": 6, "desc": "Silence"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 2, "desc": "Second loud wolf whistle"}
+]

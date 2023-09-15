@@ -1,0 +1,6 @@
+
+[
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Engine running continuously "},
+{"audio_type": "speech", "layout": "foreground", "character": "Loudspeaker", "vol": -20, "text": "Attention passengers, the next express train will be arriving in 5 minutes"},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

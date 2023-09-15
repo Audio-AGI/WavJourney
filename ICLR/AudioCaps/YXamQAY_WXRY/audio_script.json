@@ -1,0 +1,6 @@
+
+[
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Sound of water lapping in waves"},
+{"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -25, "text": "I've been thinking about how beautiful the ocean is. It's almost hypnotic how the waves ebb and flow."},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

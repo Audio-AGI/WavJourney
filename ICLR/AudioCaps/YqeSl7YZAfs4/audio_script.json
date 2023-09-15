@@ -1,0 +1,6 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Soft sound of water running"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Main", "vol": -20, "text": "I've always found the gentle sound of running water to be therapeutic and calming."},
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

@@ -1,0 +1,6 @@
+
+[
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 4, "desc": "Woman breathing heavily"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 3, "desc": "Two sneezes in succession"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 3, "desc": "Nose sniffling sound"}
+]

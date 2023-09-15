@@ -1,0 +1,7 @@
+
+[
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Soft sound of rain falling"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 3, "desc": "Rain drops hitting surfaces"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 3, "desc": "Sound of rain splashing into puddles"},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

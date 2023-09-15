@@ -1,0 +1,7 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 4, "desc": "Vibration sounds of an object shaking"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 3, "desc": "Splashing water sounds"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Person 1", "vol": -20, "text": "What was that?"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Person 2", "vol": -20, "text": "I'm not sure. Let's check it out."}
+]

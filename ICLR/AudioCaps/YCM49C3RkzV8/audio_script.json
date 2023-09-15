@@ -1,0 +1,6 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Muted speech in a busy environment"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Adult Female", "vol": -20, "text": "Hello, how are you?"},
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

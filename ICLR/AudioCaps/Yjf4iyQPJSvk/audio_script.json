@@ -1,0 +1,7 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Water falling sound"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 3, "desc": "Sound of water splashing"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 7, "desc": "Gurgling sound of water"},
+    {"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "end"}
+]

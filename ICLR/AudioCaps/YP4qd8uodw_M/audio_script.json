@@ -1,0 +1,8 @@
+
+[
+{"audio_type": "speech", "layout": "foreground", "character": "Man 1", "vol": -20, "text": "We have to resolve this issue as soon as possible."},
+{"audio_type": "speech", "layout": "foreground", "character": "Man 2", "vol": -20, "text": "Yes, I completely agree. Let's discuss our options further."},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 2, "desc": "Light clicks of mouse or keyboard"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 3, "desc": "Subtle vibrations, like a phone on a wooden desk"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 2, "desc": "Digital clicks, similar to a computer processing data"}
+]

@@ -1,0 +1,9 @@
+
+[
+  {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Sound of waves rolling slowly"},
+  {"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 5, "desc": "Sound of water swirling"},
+  {"audio_type": "sound_effect", "layout": "background", "id": 2, "action": "begin", "vol": -35, "desc": "Sound of wind blowing"},
+  {"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 5, "desc": "Sound of water swirling"},
+  {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"},
+  {"audio_type": "sound_effect", "layout": "background", "id":2, "action": "end"}
+]

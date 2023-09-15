@@ -1,0 +1,6 @@
+
+[
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Muffled vehicle engine running"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 10, "desc": "Police sirens wailing in the distance"},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

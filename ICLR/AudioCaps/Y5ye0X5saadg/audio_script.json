@@ -1,0 +1,9 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 1, "desc": "Beeping sound of a machine"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Adult Male", "vol": -25, "text": "We are under attack, requesting immediate backup"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 2, "desc": "Multiple blasts and gunshots"},
+    {"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "begin", "vol": -35, "desc": "Helicopter engine noise"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 2, "desc": "More blasts and gunshots"},
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

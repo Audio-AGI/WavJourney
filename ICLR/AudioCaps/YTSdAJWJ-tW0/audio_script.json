@@ -1,0 +1,7 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "begin", "vol": -35, "desc": "Sound of a vehicle slowly driving by on a gravel road"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Person 1", "vol": -25, "text": "I must say, it's been a while since we've had such great weather."},
+    {"audio_type": "speech", "layout": "foreground", "character": "Person 2", "vol": -25, "text": "Indeed, it's perfect for a Sunday drive."},
+    {"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "end"}
+]

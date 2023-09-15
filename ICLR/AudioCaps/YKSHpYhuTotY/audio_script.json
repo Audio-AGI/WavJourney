@@ -1,0 +1,9 @@
+
+[
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 3, "desc": "Metal clanking together"},
+{"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -25, "text": "There's something unusual about this place."},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 2, "desc": "Footsteps on grass"},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Insects buzzing"},
+{"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -25, "text": "I should investigate further."},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

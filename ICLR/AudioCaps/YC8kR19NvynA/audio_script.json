@@ -1,0 +1,18 @@
+
+[
+{"audio_type": "speech", "layout": "foreground", "character": "man", "vol": -20, "text": "Sometimes, life might throw challenges at us. Unseen events, unforeseen circumstances. But remember, every adversity offers an equal seed of advantage. Through tribulations we often find our greatest strengths. We may be hammered down, but we are never defeated. Always, remember that."},
+{"audio_type": "music", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Peaceful piano melody"},
+
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -18, "len": 3, "desc": "Clock ticking sound"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 1, "desc": "Sound of a heart beating"},
+
+{"audio_type": "speech", "layout": "foreground", "character": "man", "vol": -15, "text": "It's welcoming the storms of life, knowing that they will pass. And once they do, we emerge stronger, wiser, better."},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 2, "desc": "Sound of rain"},
+
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -17, "len": 1, "desc": "Sound of thunder"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -22, "len": 3, "desc": "Sound of a heart beating"},
+
+{"audio_type": "speech", "layout": "foreground", "character": "man", "vol": -20, "text": "To become the best version of ourselves, we need to face our fears head-on. And if you take one thing from this monologue, let it be this - never stop believing in yourself."},
+
+{"audio_type": "music", "layout": "background", "id":1, "action": "end"}
+]

@@ -1,0 +1,6 @@
+
+[
+{"audio_type": "speech", "layout": "foreground", "character": "Man 1", "vol": -25, "text": "This is the first man speaking."},
+{"audio_type": "speech", "layout": "foreground", "character": "Man 2", "vol": -25, "text": "This is the second man speaking."},
+{"audio_type": "speech", "layout": "foreground", "character": "Woman", "vol": -25, "text": "This is the woman speaking."}
+]

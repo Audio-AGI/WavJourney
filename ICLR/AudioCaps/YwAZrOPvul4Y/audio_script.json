@@ -1,0 +1,8 @@
+
+[
+  {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Sound of plastic crinkling"},
+  
+  {"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -25, "text": "As you can see, the package is wrapped thoroughly in this protective plastic shell."},
+
+  {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

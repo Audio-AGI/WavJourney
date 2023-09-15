@@ -1,0 +1,8 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "begin", "vol": -35, "desc": "Muffled heartbeat sound"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 2, "desc": "Series of rapid gunshots firing"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -18, "len": 3, "desc": "Footsteps running on concrete"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -25, "text": "Groans in pain and distress"},
+    {"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "end"}
+]

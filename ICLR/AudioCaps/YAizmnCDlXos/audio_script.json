@@ -1,0 +1,7 @@
+
+[
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 10, "desc": "Steady ringing sound"},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Tick tock of a clock"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 10, "desc": "Tick tock of a clock"},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

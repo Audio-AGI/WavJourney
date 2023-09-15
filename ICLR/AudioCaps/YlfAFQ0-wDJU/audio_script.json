@@ -1,0 +1,6 @@
+
+[
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Ocean waves crashing"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 5, "desc": "Wind blows into a microphone"},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

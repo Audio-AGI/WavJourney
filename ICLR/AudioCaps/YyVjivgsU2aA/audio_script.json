@@ -1,0 +1,6 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 4, "desc": "Motor vehicle engine revving"},
+
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 6, "desc": "Tires screeching and car speeding off"}
+]

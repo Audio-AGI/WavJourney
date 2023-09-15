@@ -1,0 +1,6 @@
+
+[
+{"audio_type": "speech", "layout": "foreground", "character": "Young Girl", "vol": -20, "text": "Hey, you're such a cutie. Do you like this toy?"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 4, "desc": "Infant laughing sound"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 1, "desc": "Toy squeak sound"}
+]

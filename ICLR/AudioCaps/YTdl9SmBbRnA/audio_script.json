@@ -1,0 +1,6 @@
+
+[
+  {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Engine idling and running"},
+  {"audio_type": "speech", "layout": "foreground", "character": "Speaker", "vol": -25, "text": "Listen to this engine. It's powerful and smooth. Runs like a dream."},
+  {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

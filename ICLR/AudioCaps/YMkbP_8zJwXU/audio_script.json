@@ -1,0 +1,6 @@
+
+[
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Gentle wind blowing"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 5, "desc": "Soft chirp of a small bird"},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

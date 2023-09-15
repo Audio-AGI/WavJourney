@@ -1,0 +1,6 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Crowd applause, continuous clapping"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -20, "text": "Thank you, thank you so much! You are all too kind."},
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

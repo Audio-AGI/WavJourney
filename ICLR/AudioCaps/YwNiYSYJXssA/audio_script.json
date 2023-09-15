@@ -1,0 +1,12 @@
+
+[
+{"audio_type": "speech", "layout": "foreground", "character": "Kid", "vol": -20, "text": "Look at this everyone!"},
+
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 2, "desc": "Camera plastic clicking sound"},
+
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Crowd of people gasping and talking"},
+
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 1, "desc": "Person whistling sound"},
+
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

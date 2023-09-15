@@ -1,0 +1,6 @@
+
+[
+{"audio_type": "speech", "layout": "foreground", "character": "Girl", "vol": -25, "text": "Hey, have you seen the new toy they released? I just got it and the packaging is so cool."},
+
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 5, "desc": "Sound of plastic wrap crunching"}
+]

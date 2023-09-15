@@ -1,0 +1,7 @@
+
+[
+  {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 1, "desc": "Swoosh sound"},
+  {"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "begin", "vol": -35, "desc": "Shoes squeaking on the floor"},
+  {"audio_type": "speech", "layout": "foreground", "character": "Male", "vol": -15, "text": "And, that's how you do it."},
+  {"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "end"}
+]

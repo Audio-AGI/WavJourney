@@ -1,0 +1,7 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 3, "desc": "Children screaming in delight"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 2, "desc": "A man laughing heartily"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Unknown", "vol": -25, "text": "Be quiet, they'll hear us."},
+    {"audio_type": "speech", "layout": "foreground", "character": "Young boy", "vol": -20, "text": "I'm not scared, they're just playing."}
+]

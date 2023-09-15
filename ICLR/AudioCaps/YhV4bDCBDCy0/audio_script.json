@@ -1,0 +1,8 @@
+
+[
+{"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "begin", "vol": -35, "desc": "Continuous sound of a vehicle engine running"},
+{"audio_type": "sound_effect", "layout": "background", "id": 2, "action": "begin", "vol": -35, "desc": "Distant, indistinct voice mumbling"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 10, "desc": "The vehicle engine running louder and more prominent"},
+{"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "end"},
+{"audio_type": "sound_effect", "layout": "background", "id": 2, "action": "end"}
+]

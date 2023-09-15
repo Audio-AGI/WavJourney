@@ -1,0 +1,6 @@
+
+[
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 5, "desc": "Mid-size motor vehicle engine idling smoothly"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 3, "desc": "Engine being revved several times"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 2, "desc": "Car door shutting"}
+]

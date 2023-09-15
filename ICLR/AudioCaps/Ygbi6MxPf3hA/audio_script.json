@@ -1,0 +1,8 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "begin", "vol": -35, "desc": "Waves crashing"},
+    {"audio_type": "sound_effect", "layout": "background", "id": 2, "action": "begin", "vol": -35, "desc": "Light birds chirping"},
+    {"audio_type": "music", "layout": "foreground", "vol": -20, "len": 10, "desc": "Brief musical tone"},
+    {"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "end"},
+    {"audio_type": "sound_effect", "layout": "background", "id": 2, "action": "end"}
+]

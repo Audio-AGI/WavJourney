@@ -1,0 +1,6 @@
+
+[
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Birds chirping in the forest"},
+{"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -25, "text": "I find peace in the simple sounds of nature, the birds chirping, the leaves rustling."},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

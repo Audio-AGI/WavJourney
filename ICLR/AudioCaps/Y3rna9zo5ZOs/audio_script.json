@@ -1,0 +1,6 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "begin", "vol": -35, "desc": "Crowd noise, people talking"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -25, "text": "Ladies and gentlemen, I appreciate your time and attention today."},
+    {"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "end"}
+]

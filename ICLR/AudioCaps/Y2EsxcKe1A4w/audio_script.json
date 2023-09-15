@@ -1,0 +1,8 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 3, "desc": "A dog barking"},
+    {"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "begin", "vol": -35, "desc": "Distant birds chirping"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Person 1", "vol": -25, "text": "Did you hear that?"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Person 2", "vol": -25, "text": "Yes, it's the neighbor's dog again."},
+    {"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "end"}
+]

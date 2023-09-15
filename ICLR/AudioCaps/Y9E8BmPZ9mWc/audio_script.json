@@ -1,0 +1,7 @@
+
+[
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Humming of loud engines"},
+{"audio_type": "speech", "layout": "foreground", "character": "Man 1", "vol": -25, "text": "Do you hear that sound?"},
+{"audio_type": "speech", "layout": "foreground", "character": "Man 2", "vol": -20, "text": "Yeah, the engines are roaring today."},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

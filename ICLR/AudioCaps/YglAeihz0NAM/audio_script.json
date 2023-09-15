@@ -1,0 +1,10 @@
+
+[
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Ocean waves crashing"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 2, "desc": "Wind blowing into microphone"},
+{"audio_type": "speech", "layout": "foreground", "character": "Young Girl", "vol": -20, "text": "It's such a beautiful day today!"},
+{"audio_type": "sound_effect", "layout": "background", "id":2, "action": "begin", "vol": -35, "desc": "Children laughing"},
+{"audio_type": "speech", "layout": "foreground", "character": "Young Man", "vol": -25, "text": "Yes, it's perfect beach weather."},
+{"audio_type": "sound_effect", "layout": "background", "id":2, "action": "end"},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

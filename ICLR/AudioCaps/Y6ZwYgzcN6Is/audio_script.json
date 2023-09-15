@@ -1,0 +1,7 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Continuous sound of running water"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Female", "vol": -25, "text": "Let me tell you a funny story about an incident that happened to me yesterday."},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 3, "desc": "Female laughing sound"},
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

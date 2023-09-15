@@ -1,0 +1,6 @@
+
+[
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 3, "desc": "Loud burst sound"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -21, "len": 4, "desc": "Rustling sound"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -19, "len": 3, "desc": "Sound of liquid spraying"}
+]

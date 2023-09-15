@@ -1,0 +1,7 @@
+
+[
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 7, "desc": "Mechanical humming sound"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 1, "desc": "Short beep"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 1, "desc": "Short beep"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 1, "desc": "Short beep"}
+]

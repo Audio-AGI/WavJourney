@@ -1,0 +1,5 @@
+
+[
+    {"audio_type": "speech", "layout": "foreground", "character": "Male Speaker", "vol": -25, "text": "Ladies and gentlemen, thank you all for coming tonight."},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 4, "desc": "Applause and cheering crowd sound"}
+]

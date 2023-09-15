@@ -1,0 +1,9 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "begin", "vol": -35, "desc": "Dogs barking in the distance"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Adult male", "vol": -20, "text": "It seems quite lively around here today."},
+    {"audio_type": "sound_effect", "layout": "background", "id": 2, "action": "begin", "vol": -35, "desc": "People talking, indistinct chatter"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Adult male", "vol": -20, "text": "It's a typical day in the neighborhood."},
+    {"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "end"},
+    {"audio_type": "sound_effect", "layout": "background", "id": 2, "action": "end"}
+]

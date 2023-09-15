@@ -1,0 +1,13 @@
+
+[
+  {"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "begin", "vol": -35, "desc": "Sizzling oil sound"},
+  {"audio_type": "sound_effect", "layout": "background", "id": 2, "action": "begin", "vol": -35, "desc": "Clacking metal sound"},
+  
+  {"audio_type": "speech", "layout": "foreground", "character": "Woman", "vol": -25, "text": "Now, let's stir in the ingredients carefully into the hot oil"},
+  
+  {"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "end"},
+  
+  {"audio_type": "speech", "layout": "foreground", "character": "Girl", "vol": -25, "text": "Mum, may I help you with the stirring?"},
+  
+  {"audio_type": "sound_effect", "layout": "background", "id": 2, "action": "end"}
+]

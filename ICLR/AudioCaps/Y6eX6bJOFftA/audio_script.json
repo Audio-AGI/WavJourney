@@ -1,0 +1,12 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Crowd of people talking"},
+
+    {"audio_type": "sound_effect", "layout": "background", "id":2, "action": "begin", "vol": -35, "desc": "Ducks quacking"},
+
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 10, "desc": "Motorboat speeding by in the distance"},
+
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"},
+
+    {"audio_type": "sound_effect", "layout": "background", "id":2, "action": "end"}
+]

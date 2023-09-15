@@ -1,0 +1,8 @@
+
+[
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Constant high pitched ringing"},
+{"audio_type": "sound_effect", "layout": "background", "id":2, "action": "begin", "vol": -35, "desc": "Intermittent rustling sounds"},
+{"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -20, "text": "I can't seem to figure out where this ringing is coming from"},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"},
+{"audio_type": "sound_effect", "layout": "background", "id":2, "action": "end"}
+]

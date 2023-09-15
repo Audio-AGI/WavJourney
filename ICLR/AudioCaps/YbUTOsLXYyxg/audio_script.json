@@ -1,0 +1,9 @@
+
+[
+  {"audio_type": "speech", "layout": "foreground", "character": "Man 1", "vol": -25, "text": "Our future depends on today's actions."},
+  {"audio_type": "speech", "layout": "foreground", "character": "Man 2", "vol": -25, "text": "I completely agree, we need to take our commitments seriously."},
+  {"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 2, "desc": "Group of people laughing loudly"},
+  {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Man speaking in the background"},
+  {"audio_type": "speech", "layout": "foreground", "character": "Man 3", "vol": -25, "text": "We need to work together to make a difference."},
+  {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

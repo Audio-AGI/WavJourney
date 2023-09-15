@@ -1,0 +1,10 @@
+
+[
+  {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Sound of an infant crying"},
+  {"audio_type": "sound_effect", "layout": "background", "id":2, "action": "begin", "vol": -35, "desc": "Sound of kids playing and talking"},
+  {"audio_type": "sound_effect", "layout": "background", "id":3, "action": "begin", "vol": -35, "desc": "Sound of adults conversing"},
+  {"audio_type": "speech", "layout": "foreground", "character": "Woman", "vol": -20, "text": "Excuse me, everyone. We really need some silence here."},
+  {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"},
+  {"audio_type": "sound_effect", "layout": "background", "id":2, "action": "end"},
+  {"audio_type": "sound_effect", "layout": "background", "id":3, "action": "end"}
+]

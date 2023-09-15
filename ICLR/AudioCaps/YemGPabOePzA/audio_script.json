@@ -1,0 +1,8 @@
+
+[
+    {"audio_type": "speech", "layout": "foreground", "character": "Person 1", "vol": -20, "text": "Ha ha ha, you're crazy!"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 2, "desc": "Sound of slowed down laughter"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Person 2", "vol": -20, "text": "I know, right! Ha ha ha"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 2, "desc": "Sound of slowed down laughter"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 4, "desc": "Audio distortion, the sound gradually slows down"}
+]

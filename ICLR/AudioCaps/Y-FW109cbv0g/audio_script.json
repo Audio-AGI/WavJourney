@@ -1,0 +1,7 @@
+
+[
+    {"audio_type": "speech", "layout": "foreground", "character": "Narrator", "vol": -20, "text": "Speech followed by quietness"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -30, "len": 3, "desc": "Silence"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -25, "text": "and a man speaks"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 2, "desc": "Laughter of a man"}
+]

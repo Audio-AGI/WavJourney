@@ -1,0 +1,6 @@
+
+[
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Person snoring"},
+{"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -25, "text": "It is hard to concentrate on my work when there are distracting sounds."},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

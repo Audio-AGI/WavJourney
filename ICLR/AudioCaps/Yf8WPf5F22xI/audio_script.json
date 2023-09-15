@@ -1,0 +1,10 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 1, "desc": "Person sneezing"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 1, "desc": "Person sneezing"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -25, "text": "Bless you!"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 2, "desc": "Kid chuckling"},
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Clock ticking"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 4, "desc": "Pause"},
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

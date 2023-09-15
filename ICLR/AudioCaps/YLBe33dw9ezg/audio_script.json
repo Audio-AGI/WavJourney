@@ -1,0 +1,9 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "begin", "vol": -35, "desc": "Continuous electronic device buzzing"},
+    {"audio_type": "music", "layout": "background", "id": 2, "action": "begin", "vol": -35, "desc": "Soft instrumental music playing"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 3, "desc": "Electronic device buzzes more prominently"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Woman", "vol": -20, "text": "Can you hear me?"},
+    {"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "end"},
+    {"audio_type": "music", "layout": "background", "id": 2, "action": "end"}
+]

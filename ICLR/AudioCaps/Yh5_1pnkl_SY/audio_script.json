@@ -1,0 +1,11 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Water trickling slowly"},
+    {"audio_type": "sound_effect", "layout": "background", "id":2, "action": "begin", "vol": -35, "desc": "Splashes in water"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Adult Male", "vol": -20, "text": "The river's melody calms the spirit."},
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"},
+    {"audio_type": "sound_effect", "layout": "background", "id":3, "action": "begin", "vol": -35, "desc": "Water gurgling faster"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Adult Male", "vol": -20, "text": "As the current picks up, so does the pace of life."},
+    {"audio_type": "sound_effect", "layout": "background", "id":2, "action": "end"},
+    {"audio_type": "sound_effect", "layout": "background", "id":3, "action": "end"}
+]

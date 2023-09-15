@@ -1,0 +1,6 @@
+
+[
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 3, "desc": "Short hammering sound"},
+{"audio_type": "speech", "layout": "foreground", "character": "Man 1", "vol": -25, "text": "Hey, did you hear that hammering sound?"},
+{"audio_type": "speech", "layout": "foreground", "character": "Man 2", "vol": -25, "text": "Yes, I wonder what's going on."}
+]

@@ -1,0 +1,5 @@
+
+[
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 3, "desc": "Groaning sound effect"},
+{"audio_type": "speech", "layout": "foreground", "character": "Woman", "vol": -20, "text": "I can't believe what just happened."}
+]

@@ -1,0 +1,9 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Water running, splashing and gurgling"},
+    {"audio_type": "sound_effect", "layout": "background", "id":2, "action": "begin", "vol": -35, "desc": "People talking in background"},   
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 2, "desc": "Thumping sound"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Adult Male", "vol": -20, "text": "I feel so at peace here. The sound of the water is ethereal."},
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"},
+    {"audio_type": "sound_effect", "layout": "background", "id":2, "action": "end"}
+]

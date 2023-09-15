@@ -1,0 +1,8 @@
+
+[
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 5, "desc": "Metal shuffling sound"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 3, "desc": "Plastic clicking sound"},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Slight wind blowing"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 2, "desc": "Microphone picking up wind"},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

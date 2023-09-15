@@ -1,0 +1,12 @@
+
+[
+  {"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "begin", "vol": -35, "desc": "Live goats baaing"},
+  {"audio_type": "speech", "layout": "foreground", "character": "Woman", "vol": -20, "text": "These goats are quite lively today, aren't they?"},
+  {"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "end"},
+
+  {"audio_type": "sound_effect", "layout": "foreground", "vol": -35, "len": 2, "desc": "Footsteps on gravel"},
+  
+  {"audio_type": "sound_effect", "layout": "background", "id": 2, "action": "begin", "vol": -35, "desc": "Airplane flying in the distance"},
+  {"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -15, "text": "Yes, they are. And look, a plane is passing by."},
+  {"audio_type": "sound_effect", "layout": "background", "id": 2, "action": "end"}
+]

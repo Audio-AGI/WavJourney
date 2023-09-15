@@ -1,0 +1,7 @@
+
+[
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 3, "desc": "Man laughing"},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Distant humming sound"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 3, "desc": "Birds chirping"},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

@@ -1,0 +1,9 @@
+
+[
+  {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Engine whining"},
+  {"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -20, "text": "I warn you, don't try anything funny"},
+  {"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 1, "desc": "Sound of a smack"},
+  {"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 2, "desc": "High pitched whistle sound"},
+  {"audio_type": "speech", "layout": "foreground", "character": "Woman", "vol": -20, "text": "Oh, you'll pay for this!"},
+  {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

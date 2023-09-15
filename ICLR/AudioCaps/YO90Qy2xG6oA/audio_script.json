@@ -1,0 +1,6 @@
+
+[
+  {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Domestic pet, possibly a dog or a cat, making gentle noises"},
+  {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 6, "desc": "baby crying sound"},
+  {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

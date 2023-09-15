@@ -1,0 +1,8 @@
+
+[
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 2, "desc": "Initial vibration of sewing machine starting"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 2, "desc": "Short pause, no sound"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 2, "desc": "Second burst of sewing machine vibration"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 2, "desc": "Short pause, no sound"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 2, "desc": "Final burst of sewing machine vibration"}
+]

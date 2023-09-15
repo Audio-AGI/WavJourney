@@ -1,0 +1,8 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Sound of waves crashing onto the shore"},
+    {"audio_type": "sound_effect", "layout": "background", "id":2, "action": "begin", "vol": -35, "desc": "Sound of wind blowing"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 10, "desc": "Combination of waves and wind creating a harmonious sound"},
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"},
+    {"audio_type": "sound_effect", "layout": "background", "id":2, "action": "end"}
+]

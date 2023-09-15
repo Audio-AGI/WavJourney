@@ -1,0 +1,12 @@
+
+[
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Birds chirping in a park"},
+
+{"audio_type": "sound_effect", "layout": "background", "id":2, "action": "begin", "vol": -35, "desc": "Insects buzzing in a park"},
+
+{"audio_type": "speech", "layout": "foreground", "character": "Adult Male", "vol": -25, "text": "What a beautiful day to be out in the park. I feel so alive with nature."},
+
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"},
+
+{"audio_type": "sound_effect", "layout": "background", "id":2, "action": "end"}
+]

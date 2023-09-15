@@ -1,0 +1,8 @@
+
+[
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 3, "desc": "High pitches squealing"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 2, "desc": "A horn blowing"},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Constant humming of an engine"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 5, "desc": "Continuation of high pitches squealing"},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

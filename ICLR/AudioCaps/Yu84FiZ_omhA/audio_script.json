@@ -1,0 +1,6 @@
+
+[
+    {"audio_type": "music", "layout": "foreground", "vol": -25, "len": 7, "desc": "A woman singing a smooth melody"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 1, "desc": "Choking sound"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 2, "desc": "Birds chirping"}
+]

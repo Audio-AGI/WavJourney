@@ -1,0 +1,8 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Muffled aircraft engine sound"},
+    {"audio_type": "sound_effect", "layout": "background", "id":2, "action": "begin", "vol": -35, "desc": "Group of people talking indistinctly"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 10, "desc": "Overall piece of audio containing both background sounds which lasts 10 seconds"},
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"},
+    {"audio_type": "sound_effect", "layout": "background", "id":2, "action": "end"}
+]

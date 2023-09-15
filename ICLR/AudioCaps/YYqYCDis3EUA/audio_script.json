@@ -1,0 +1,8 @@
+
+[
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Birds chirping"},
+{"audio_type": "sound_effect", "layout": "background", "id":2, "action": "begin", "vol": -35, "desc": "Bees buzzing"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 10, "desc": "A continuation of birds chirping and bees buzzing, giving a sense of harmony in nature"},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"},
+{"audio_type": "sound_effect", "layout": "background", "id":2, "action": "end"}
+]

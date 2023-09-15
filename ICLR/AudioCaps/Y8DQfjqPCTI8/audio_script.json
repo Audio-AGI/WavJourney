@@ -1,0 +1,9 @@
+
+[
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Insects buzzing around"},
+{"audio_type": "sound_effect", "layout": "background", "id":2, "action": "begin", "vol": -35, "desc": "Birds communicating"},
+{"audio_type": "speech", "layout": "foreground", "character": "Man 1", "vol": -25, "text": "I believe we have all the necessary information."},
+{"audio_type": "speech", "layout": "foreground", "character": "Man 2", "vol": -25, "text": "Yes, I agree. Let's proceed with the plan."},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"},
+{"audio_type": "sound_effect", "layout": "background", "id":2, "action": "end"}
+]

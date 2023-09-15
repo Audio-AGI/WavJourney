@@ -1,0 +1,12 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Static radio sound"},
+    
+    {"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -22, "text": "Hello, can anyone hear me? I need assistance here!"},
+    
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -18, "len": 1, "desc": "Brief break in the radio transmission"},
+    
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -17, "len": 4, "desc": "Crying baby sound"},
+
+    {"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "end"}
+]

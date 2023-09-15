@@ -1,0 +1,7 @@
+
+[
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 4, "desc": "Rustling sound of papers"},
+{"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "begin", "vol": -35, "desc": "Consistent clicks in the background"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 6, "desc": "Soft humming sound"},
+{"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "end"}
+]

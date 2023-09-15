@@ -1,0 +1,9 @@
+
+[
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Continuing insect buzz"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 2, "desc": "Insect buzzing sound"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -18, "len": 2, "desc": "Muffled plastic camera sound"},
+{"audio_type": "speech", "layout": "foreground", "character": "Kid", "vol": -25, "text": "Look at this awesome bug!"}, 
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 3, "desc": "Footsteps on foliage sound"},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

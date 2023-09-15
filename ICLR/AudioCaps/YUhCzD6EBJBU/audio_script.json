@@ -1,0 +1,8 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 2, "desc": "Fast vibration of power tool"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -20, "text": "Watch your step, we're fixing the floor here."},
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Distant noise of construction site work"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 3, "desc": "Successive banging sounds"},
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

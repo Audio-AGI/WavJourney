@@ -1,0 +1,6 @@
+
+[
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Machine buzzing softly"},
+{"audio_type": "speech", "layout": "foreground", "character": "Male Voice", "vol": -20, "text": "This is a test, 1 2 3, audio test in progress"},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

@@ -1,0 +1,10 @@
+
+[
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 3, "desc": "Steam hissing"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 2, "desc": "Bird cawing"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 5, "desc": "Sound of audio feedback humming"},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Continuous audio feedback humming"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 3, "desc": "Steam hissing"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 2, "desc": "Bird cawing"},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

@@ -1,0 +1,7 @@
+
+[
+{"audio_type": "music", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Bongo drums playing rhythmically"},
+{"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -20, "text": "This is a very interesting thing. You won't believe what happened next."},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 5, "desc": "Frogs croaking"},
+{"audio_type": "music", "layout": "background", "id":1, "action": "end"}
+]

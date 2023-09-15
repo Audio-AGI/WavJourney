@@ -1,0 +1,10 @@
+
+[
+{"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "begin", "vol": -35, "desc": "Sound of a power tool motor humming"},
+{"audio_type": "sound_effect", "layout": "background", "id": 2, "action": "begin", "vol": -35, "desc": "Sound of compressed air hissing"},
+{"audio_type": "sound_effect", "layout": "background", "id": 3, "action": "begin", "vol": -35, "desc": "Group of people talking"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 3, "desc": "Sound of hammering on a metal surface"},
+{"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "end"},
+{"audio_type": "sound_effect", "layout": "background", "id": 2, "action": "end"},
+{"audio_type": "sound_effect", "layout": "background", "id": 3, "action": "end"}
+]

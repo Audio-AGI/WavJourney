@@ -1,0 +1,9 @@
+
+[
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 2, "desc": "Sound of someone belching"},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Group of people laughing"},
+{"audio_type": "sound_effect", "layout": "background", "id":2, "action": "begin", "vol": -35, "desc": "Background chatter of people talking"},
+{"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -25, "text": "Thank you so much for your kind attention."},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"},
+{"audio_type": "sound_effect", "layout": "background", "id":2, "action": "end"}
+]

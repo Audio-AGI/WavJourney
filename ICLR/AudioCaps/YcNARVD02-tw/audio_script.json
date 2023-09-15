@@ -1,0 +1,11 @@
+
+[
+{"audio_type": "speech", "layout": "foreground", "character": "Male", "vol": -20, "text": "Did you turn off the water in the bathroom?"},
+{"audio_type": "speech", "layout": "foreground", "character": "Female", "vol": -25, "text": "I'm not sure. Let me go check."},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Subtle sound of indoor environment with faint humming of appliances"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 3, "desc": "Sound of footsteps, female"},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"},
+{"audio_type": "sound_effect", "layout": "background", "id":2, "action": "begin", "vol": -35, "desc": "Sound of water running from a tap"},
+{"audio_type": "speech", "layout": "foreground", "character": "Female", "vol": -25, "text": "Oh no, it was still running."},
+{"audio_type": "sound_effect", "layout": "background", "id":2, "action": "end"}
+]

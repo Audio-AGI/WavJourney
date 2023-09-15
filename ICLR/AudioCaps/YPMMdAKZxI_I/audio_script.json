@@ -1,0 +1,10 @@
+
+[
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 3, "desc": "Loud burping sound"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -22, "len": 2, "desc": "Women laughing"},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Man talking in background"},
+{"audio_type": "sound_effect", "layout": "background", "id":2, "action": "begin", "vol": -35, "desc": "Woman talking in background"},
+{"audio_type": "speech", "layout": "foreground", "character": "Narrator", "vol": -20, "text": "While these events were happening, there was a lively discussion in the background."},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"},
+{"audio_type": "sound_effect", "layout": "background", "id":2, "action": "end"}
+]

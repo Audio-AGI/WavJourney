@@ -1,0 +1,9 @@
+
+[
+    {"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -20, "text": "This is a lovely day in the countryside."},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 1, "desc": "Goat baaing"},
+    {"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "begin", "vol": -30, "desc": "Metal gate sliding"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 2, "desc": "Ducks quacking"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 2, "desc": "Wind blowing into a microphone"},
+    {"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "end"}
+]

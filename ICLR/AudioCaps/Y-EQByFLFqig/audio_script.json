@@ -1,0 +1,7 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Light rainfall"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -20, "text": "As the rain begins to fall, we move into cover. It's a soothing sound, almost like a melody. We hold our breaths as we listen, waiting for the inevitable storm."},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 3, "desc": "Thunder rumble in the distance"},
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

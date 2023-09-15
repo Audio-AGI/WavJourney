@@ -1,0 +1,6 @@
+[
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Birds chirping"},
+{"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -20, "text": "Such a beautiful day outside. I've never seen the sky so clear."},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 3, "desc": "Loud popping noise"},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

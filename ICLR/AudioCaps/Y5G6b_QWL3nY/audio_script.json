@@ -1,0 +1,6 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Sizzling sound of food in a pan"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Woman", "vol": -20, "text": "I always appreciate a good sizzle when I'm cooking."},
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

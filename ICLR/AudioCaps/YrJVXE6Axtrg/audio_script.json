@@ -1,0 +1,9 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Continuous metal clanking sound"},
+    {"audio_type": "sound_effect", "layout": "background", "id":2, "action": "begin", "vol": -35, "desc": "Power tool operating sound"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Man 1", "vol": -25, "text": "These parts just arrived today."},
+    {"audio_type": "speech", "layout": "foreground", "character": "Man 2", "vol": -25, "text": "Let's get this machine back up and running."},
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"},
+    {"audio_type": "sound_effect", "layout": "background", "id":2, "action": "end"}
+]

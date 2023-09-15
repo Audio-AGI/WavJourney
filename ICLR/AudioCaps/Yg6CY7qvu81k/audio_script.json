@@ -1,0 +1,5 @@
+
+[
+    {"audio_type": "music", "layout": "foreground", "vol": -20, "len": 5, "desc": "Melodic, light intro music with orchestral instruments"},
+    {"audio_type": "speech", "layout": "foreground", "vol": -15, "character":"Unknown Man", "text": "Hello, welcome to our program, please stay tuned for more interesting topics."}
+]

@@ -1,0 +1,7 @@
+
+[
+  {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 2, "desc": "First bird chirping"},
+  {"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 2, "desc": "Second bird chirping"},
+  {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 3, "desc": "Third bird chirping"},
+  {"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 3, "desc": "Fourth bird chirping"}
+]

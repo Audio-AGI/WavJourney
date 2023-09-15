@@ -1,0 +1,5 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 5, "desc": "Humming sound of a power tool in operation"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 5, "desc": "Vibrating sound from a power tool"}
+]

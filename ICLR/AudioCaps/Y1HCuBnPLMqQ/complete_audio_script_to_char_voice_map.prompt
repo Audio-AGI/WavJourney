@@ -1,0 +1,32 @@
+Given an audio script in json format, for each character appeared in the "character" attribute, you should map the character to a "voice type" according to the his/her lines and the voice type's features. Each character must be mapped to a different voice type, and each voice type must be from one of the following(each line in the format of "[voice_type_id]: [voice_type_description]"):
+Male1_En: A normal male adult voice, British accent; Language: English.
+Male2_En: A normal male adult voice, American accent; Language: English.
+Female1_En: A normal female adult voice, British accent; Language: English.
+Female2_En: A normal female adult voice, American accent; Language: English.
+News_Male_En: A male voice of a news anchor, suitable for news scenarios; Language: English.
+News_Female_En: A female voice of a news anchor, suitable for news scenarios; Language: English.
+News_Female_Out_En: A female voice of a off-site news reporter, suitable for news scenario; Language: English.
+Child_En: A small young boy voice; Language: English.
+Old_Man_En: A voice of an old man; Language: English.
+
+Output should be in the format of json, like:
+'''
+{
+    "character_1": "voice_type_1",
+    "character_2": "voice_type_2",
+    ...
+}
+'''
+
+Audio script:
+'''
+
+[
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 3, "desc": "Plastic clacking sound"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 2, "desc": "Person breathing heavily"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 5, "desc": "Sound of liquid pouring into containers"}
+]
+
+'''
+
+output:

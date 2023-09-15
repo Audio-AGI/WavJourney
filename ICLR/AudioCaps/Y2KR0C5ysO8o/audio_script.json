@@ -1,0 +1,8 @@
+
+[
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 2, "desc": "Mid-size motor vehicle engine accelerating"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 1, "desc": "Hissing sound from the engine"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 1, "desc": "Spinning tires on asphalt"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 2, "desc": "Mid-size motor vehicle engine decelerating"},
+{"audio_type": "speech", "layout": "foreground", "character": "Adult Male", "vol": -25, "text": "That was a nice ride."}
+]

@@ -1,0 +1,8 @@
+
+[
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Level cheers of a crowd"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 10, "desc": "Different kinds of animals sounds"},
+{"audio_type": "music", "layout": "foreground", "vol": -25, "len": 2, "desc": "Drum roll"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 3, "desc": "Crowd clapping and cheering"},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

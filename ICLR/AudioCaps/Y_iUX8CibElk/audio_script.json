@@ -1,0 +1,6 @@
+
+[
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Consistent buzzing sound of a large industrial engine running"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 10, "desc": "Persistent humming noise of mechanical equipment in operation"},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

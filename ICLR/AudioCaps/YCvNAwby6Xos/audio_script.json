@@ -1,0 +1,6 @@
+
+[
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Sound of sewing machine operating"},
+{"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -25, "text": "Good afternoon, welcome to the tailor's shop. Today we are making a customized suit"},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

@@ -1,0 +1,9 @@
+
+[
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 5, "desc": "Footsteps shuffling on snow"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -18, "len": 5, "desc": "Sound of camera muffling"},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Sound of wind blowing into a microphone"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 5, "desc": "Footsteps shuffling on snow"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -18, "len": 5, "desc": "Sound of camera muffling"},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

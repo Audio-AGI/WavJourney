@@ -1,0 +1,11 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin","vol": -35, "desc": "Sound of race cars speeding on a race track"},
+    {"audio_type": "speech", "layout": "foreground","vol": -20, "character": "Race commentator", "text": "What a race! These drivers are really pushing their cars to the limit!"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 3, "desc": "Sound of cars speeding"},
+    {"audio_type": "speech", "layout": "foreground","vol": -20, "character": "Race commentator", "text": "The audience are loving every bit of this action-packed race!"},
+    {"audio_type": "sound_effect", "layout": "background", "id":2, "action": "begin","vol": -35, "desc": "Sound of crowd talking and cheering"},
+    {"audio_type": "speech", "layout": "foreground", "vol": -20, "character": "Audience Member", "text": "Go number 23! You can do it!"},
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"},
+    {"audio_type": "sound_effect", "layout": "background", "id":2, "action": "end"}
+]

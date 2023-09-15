@@ -1,0 +1,7 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Soft sound of stream water trickling"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 3, "desc": "Wind blowing into a microphone"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 7, "desc": "Thunder roaring in the distance"},
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

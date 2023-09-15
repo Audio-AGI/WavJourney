@@ -1,0 +1,5 @@
+
+[
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 4, "desc": "Sound of squeaking and bouncing, like a rubber ball being played with"},
+{"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -25, "text": "That was fun, wasn't it?"}
+]

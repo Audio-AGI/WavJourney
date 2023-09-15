@@ -1,0 +1,7 @@
+
+[
+{"audio_type": "speech", "layout": "foreground", "character": "Male", "vol": -20, "text": "Ladies and gentlemen, thank you for coming here tonight!"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 2, "desc": "Laughter of a crowd"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 1, "desc": "Excited shouts from a crowd"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 2, "desc": "Clapping of a crowd"}
+]

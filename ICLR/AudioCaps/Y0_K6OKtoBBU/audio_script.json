@@ -1,0 +1,8 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 3, "desc": "Rustling sound of leaves"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 2, "desc": "Complete silence"},
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Distant traffic passing noise"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 2, "desc": "Cat meowing"},
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

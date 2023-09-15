@@ -1,0 +1,6 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 2, "desc": "Sound of microphone getting switched on"},
+    {"audio_type": "speech", "layout": "foreground", "character": "woman", "vol": -20, "text": "Good afternoon everyone, thank you for being here."},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 2, "desc": "Sound of microphone getting switched off"}
+]

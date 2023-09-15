@@ -1,0 +1,6 @@
+
+[
+  {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Sound of rain falling"},
+  {"audio_type": "speech", "layout": "foreground", "character": "Young Female", "vol": -25, "text": "Such a beautiful rainy day it is. The sound of rain is so soothing, isn't it?"},
+  {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

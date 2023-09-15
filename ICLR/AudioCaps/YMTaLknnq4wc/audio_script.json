@@ -1,0 +1,5 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 3, "desc": "A clear, melodic whistling sound"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Female singer", "vol": -15, "text": "Lalala..."}
+]

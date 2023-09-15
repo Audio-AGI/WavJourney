@@ -1,0 +1,6 @@
+
+[
+    {"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -20, "text": "Did you know, a human can make over 10 different types of laughter?"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 2, "desc": "Pop sound"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 3, "desc": "Laughter sound"}
+]

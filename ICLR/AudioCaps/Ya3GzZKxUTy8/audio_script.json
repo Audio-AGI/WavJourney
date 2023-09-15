@@ -1,0 +1,6 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 3, "desc": "Birds chirping"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 3, "desc": "Duck quacking"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 4, "desc": "Dog barking"}
+]

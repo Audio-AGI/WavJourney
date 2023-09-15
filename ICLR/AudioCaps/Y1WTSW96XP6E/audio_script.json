@@ -1,0 +1,6 @@
+
+[
+    {"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -25, "text": "Just about to ride my motorcycle for a long trip."},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 2, "desc": "Sound of a tap"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 5, "desc": "Sound of a motorcycle starting and revving"}
+]

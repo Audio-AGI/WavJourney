@@ -1,0 +1,7 @@
+
+[
+{"audio_type": "speech", "layout": "foreground", "character": "Woman", "vol": -20, "text": "I could not agree more with the points you've made. It's exceptionally important that we address these issues..."},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Dog barking in distance"},
+{"audio_type": "speech", "layout": "foreground", "character": "Woman", "vol": -15, "text": "We can make a difference if we continue to prioritize..."},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

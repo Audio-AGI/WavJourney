@@ -1,0 +1,5 @@
+
+[
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 10, "desc": "Humming of an engine"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 1.5, "desc": "Squealing of tires"}
+]

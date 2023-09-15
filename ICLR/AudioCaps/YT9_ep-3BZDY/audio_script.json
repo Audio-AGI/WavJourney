@@ -1,0 +1,5 @@
+
+[
+    {"audio_type": "speech", "layout": "foreground", "character": "Female voice", "vol": -20, "text": "We'll begin shortly"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 8, "desc": "Crinkling noises"}
+]

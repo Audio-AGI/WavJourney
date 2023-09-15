@@ -1,0 +1,12 @@
+
+[
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Distant sound of a vehicle horn honking"},
+{"audio_type": "speech", "layout": "foreground", "character": "Man 1", "vol": -25, "text": "I have been thinking about this for a while now..."},
+{"audio_type": "speech", "layout": "foreground", "character": "Man 2", "vol": -25, "text": "...but it's pretty clear"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 1, "desc": "Short pause"},
+{"audio_type": "speech", "layout": "foreground", "character": "Man 1", "vol": -25, "text": "We need to find a better way to move forward."},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"},
+{"audio_type": "sound_effect", "layout": "background", "id":2, "action": "begin", "vol": -35, "desc": "Distant murmuring of another man talking"},
+{"audio_type": "speech", "layout": "foreground", "character": "Man 1", "vol": -25, "text": "That's all I have to say for now."},
+{"audio_type": "sound_effect", "layout": "background", "id":2, "action": "end"}
+]

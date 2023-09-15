@@ -1,0 +1,8 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 3, "desc": "Vehicle engine gurgling"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 2, "desc": "Horn tooting"},
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Wind blowing"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 5, "desc": "Microphone picking up wind noise"},
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

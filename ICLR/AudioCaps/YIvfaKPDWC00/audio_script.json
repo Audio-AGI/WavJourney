@@ -1,0 +1,7 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Emergency sirens wailing in the distance"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 5, "desc": "Hum of accelerating vehicle starting up"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 5, "desc": "Sound of accelerating vehicle moving away swiftly"},
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

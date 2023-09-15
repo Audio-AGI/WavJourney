@@ -1,0 +1,7 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "begin", "vol": -35, "desc": "Sound of race cars speeding on a road"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -25, "text": "Ladies and gentlemen, look at the speed! It's truly an amazing sigh!"},  
+    {"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "end"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 5, "desc": "Sound of race cars zooming past at a breakneck speed after the speech"}
+]

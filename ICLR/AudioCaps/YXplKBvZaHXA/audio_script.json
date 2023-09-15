@@ -1,0 +1,7 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Motorbike engine runs"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 3, "desc": "Motorbike engine accelerates"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -20, "text": "It's a beautiful day for a ride, isn't it?"},
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

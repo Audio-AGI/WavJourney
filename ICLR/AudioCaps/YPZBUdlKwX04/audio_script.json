@@ -1,0 +1,8 @@
+
+[
+{"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "begin", "vol": -35, "desc": "Sound of water splashing"},
+{"audio_type": "sound_effect", "layout": "background", "id": 2, "action": "begin", "vol": -35, "desc": "Voices of multiple people talking softly"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 10, "desc": "Continuous water splashing and voices"},  
+{"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "end"},
+{"audio_type": "sound_effect", "layout": "background", "id": 2, "action": "end"}
+]

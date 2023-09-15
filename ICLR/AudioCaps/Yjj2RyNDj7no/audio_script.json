@@ -1,0 +1,10 @@
+
+[
+  {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Bees buzzing"},
+  {"audio_type": "sound_effect", "layout": "background", "id":2, "action": "begin", "vol": -35, "desc": "Birds calling"},
+
+  {"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -25, "text": "This is such a perfect weather, the birds are singing and bees are buzzing!"},
+
+  {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"},
+  {"audio_type": "sound_effect", "layout": "background", "id":2, "action": "end"}
+]

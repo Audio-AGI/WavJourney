@@ -1,0 +1,6 @@
+
+[
+ {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 2, "desc": "Rapid clicking sound"},
+ {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 3, "desc": "Motor vehicle engine attempting to start, with grinding sounds"},
+ {"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 5, "desc": "Engine fully engages. It begins to run and vibrate"}
+]

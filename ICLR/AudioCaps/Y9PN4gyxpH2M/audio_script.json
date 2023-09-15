@@ -1,0 +1,7 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "begin", "vol": -35, "desc": "Sound of paper crinkling"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -25, "text": "I think the report needs further revisions."},
+    {"audio_type": "speech", "layout": "foreground", "character": "Woman", "vol": -25, "text": "I agree. Let's meet tomorrow to discuss further."},
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

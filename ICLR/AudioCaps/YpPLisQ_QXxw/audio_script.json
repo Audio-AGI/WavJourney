@@ -1,0 +1,7 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 2, "desc": "High pitched horn honking"},
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Vibrations of passing traffic"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 8, "desc": "High pitched horn honking"},
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

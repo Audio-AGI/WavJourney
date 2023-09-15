@@ -1,0 +1,9 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "begin", "vol": -35, "desc": "Sound of water trickling"},
+    {"audio_type": "sound_effect", "layout": "background", "id": 2, "action": "begin", "vol": -35, "desc": "Sound of birds chirping"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -25, "text": "I've seen many things in my life, witnessed the change of eras."},
+    {"audio_type": "speech", "layout": "foreground", "character": "Person in distance", "vol": -25, "text": "Are you sure we're going the right way?"},
+    {"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "end"},
+    {"audio_type": "sound_effect", "layout": "background", "id": 2, "action": "end"}
+]

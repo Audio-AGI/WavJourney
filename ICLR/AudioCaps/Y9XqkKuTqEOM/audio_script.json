@@ -1,0 +1,6 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 4, "desc": "Scratching sound"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 4, "desc": "Rustling sound"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -17, "len": 2, "desc": "Small clicks"}
+]

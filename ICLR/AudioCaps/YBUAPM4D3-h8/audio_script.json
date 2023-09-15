@@ -1,0 +1,7 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Birds chirping"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Woman", "vol": -20, "text": "How was your day at school?"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Child", "vol": -20, "text": "It was great, mom! We learned about the solar system."},
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

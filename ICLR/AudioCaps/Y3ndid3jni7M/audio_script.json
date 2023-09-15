@@ -1,0 +1,7 @@
+
+[
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Train running on railroad tracks"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 3, "desc": "Train horn blowing several times"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -16, "len": 7, "desc": "Railroad crossing signal ringing"},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

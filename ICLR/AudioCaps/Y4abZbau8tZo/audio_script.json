@@ -1,0 +1,8 @@
+
+[
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Engine idling and ticking sound"},
+{"audio_type": "sound_effect", "layout": "background", "id":2, "action": "begin", "vol": -35, "desc": "Distant traffic noise"},
+{"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -25, "text": "Beautiful day, isn't it? Nothing beats the hum of the city in the morning."},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"},
+{"audio_type": "sound_effect", "layout": "background", "id":2, "action": "end"}
+]

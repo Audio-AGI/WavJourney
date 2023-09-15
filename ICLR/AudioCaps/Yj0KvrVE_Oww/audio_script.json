@@ -1,0 +1,11 @@
+
+[
+    {"audio_type": "speech", "layout": "foreground", "character": "Male 1", "vol": -25, "text": "Isn't it a wonderful day today?"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Male 2", "vol": -25, "text": "Indeed, it is! Better than yesterday at least."},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 1, "desc": "Small horn blowing"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 4, "desc": "Sound of clattering"},
+    {"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "begin", "vol": -35, "desc": "Subtle city ambiance, distant traffic"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Male 1", "vol": -25, "text": "Isn't it a wonderful day today?"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Male 2", "vol": -25, "text": "Indeed, it is! Better than yesterday at least."},
+    {"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "end"}
+]

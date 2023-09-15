@@ -1,0 +1,6 @@
+
+[
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 8, "desc": "Intermittent drilling sound"},
+{"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -15, "text": "Oh...uh"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 2, "desc": "Drilling sound pausing momentarily"}
+]

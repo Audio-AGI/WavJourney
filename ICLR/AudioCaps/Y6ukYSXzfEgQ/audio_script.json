@@ -1,0 +1,11 @@
+
+[
+  {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Bird call in the distance occasionally"},
+  {"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 1, "desc": "A hollow clanking sound"},
+  {"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 2, "desc": "Sound of rushing water"},
+  {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"},
+  
+  {"audio_type": "sound_effect", "layout": "background", "id":2, "action": "begin", "vol": -35, "desc": "Sound of double thump occasionally"},
+  {"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 2, "desc": "Sound of trickling water"},
+  {"audio_type": "sound_effect", "layout": "background", "id":2, "action": "end"}
+]

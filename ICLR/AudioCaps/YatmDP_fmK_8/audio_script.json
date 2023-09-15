@@ -1,0 +1,5 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 7, "desc": "Very low-pitched hum"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 3, "desc": "Explosion sound"}
+]

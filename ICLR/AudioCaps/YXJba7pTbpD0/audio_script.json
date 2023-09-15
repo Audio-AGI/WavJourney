@@ -1,0 +1,5 @@
+
+[
+  {"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 2, "desc": "Short burst of spray sound"},
+  {"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 8, "desc": "Louder, longer burst of spray sound"}
+]

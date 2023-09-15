@@ -1,0 +1,10 @@
+
+[
+{"audio_type": "speech", "layout": "foreground", "character": "Child", "vol": -25, "text": "Hey, look at this!"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 1, "desc": "Child's laughter"},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Animal gurgling sound"},
+{"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -25, "text": "That's so funny!"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 1, "desc": "Man's laughter"},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"},
+{"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -25, "text": "Let's go home, it's getting late."}
+]

@@ -1,0 +1,7 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 4, "desc": "Loud bangs"},
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "People speaking, lively chatter"},  
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 6, "desc": "Slow motion rumble"},
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

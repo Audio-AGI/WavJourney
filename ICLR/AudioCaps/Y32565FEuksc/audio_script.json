@@ -1,0 +1,6 @@
+
+[
+{"audio_type": "speech", "layout": "foreground", "character": "Woman", "vol": -20, "text": "Ladies and gentlemen, thank you for your time. Your support means everything to me."},
+
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 3, "desc": "Sound of applause from a large crowd"}
+]

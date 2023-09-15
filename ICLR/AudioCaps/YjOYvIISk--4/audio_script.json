@@ -1,0 +1,6 @@
+
+[
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Water flowing from a faucet in quick bursts"},
+{"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -20, "text": "Life, just like this water, is constantly moving. The moment we think we have grasped it, it slips away."},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

@@ -1,0 +1,10 @@
+
+[
+{"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -20, "text": "Listen carefully, what I am about to say is vital."},
+
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 2, "desc": "First burst of intense high-pressure hissing"},
+
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 2, "desc": "Second burst of intense high-pressure hissing"},
+
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 2, "desc": "Third burst of intense high-pressure hissing"}
+]

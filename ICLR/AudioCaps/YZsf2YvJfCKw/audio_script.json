@@ -1,0 +1,5 @@
+
+[
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 3, "desc": "Loud humming sound"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 7, "desc": "Gurgling water sound of a flushing toilet"}
+]

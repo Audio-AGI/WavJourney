@@ -1,0 +1,6 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Typing sounds on a computer keyboard"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -20, "text": "Hello everyone. We are starting the meeting now."},
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

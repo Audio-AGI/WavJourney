@@ -1,0 +1,8 @@
+
+[ 
+  {"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "begin", "vol": -35, "desc": "Car engine idling"},
+
+  {"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -25, "text": "It's a long journey, but we must keep going."},
+
+  {"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "end"}
+]

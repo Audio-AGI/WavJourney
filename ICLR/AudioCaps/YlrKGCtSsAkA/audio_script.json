@@ -1,0 +1,5 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 5, "desc": "High frequency humming"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 5, "desc": "Wind blowing"}
+]

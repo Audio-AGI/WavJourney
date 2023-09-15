@@ -1,0 +1,9 @@
+
+[
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Sounds of distant gunshots"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 1, "desc": "Close gunshot, single"},
+{"audio_type": "speech", "layout": "foreground", "character": "Man 1", "vol": -18, "text": "I've got a visual on the target"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 1, "desc": "Sudden large boom sound"},
+{"audio_type": "speech", "layout": "foreground", "character": "Man 2", "vol": -16, "text": "Affirmative, keep your position"},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

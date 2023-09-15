@@ -1,0 +1,6 @@
+
+[
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 7, "desc": "Ticking sound at regular intervals"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 2, "desc": "Ticking sound at short intervals"},
+{"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -20, "text": "*Coughs quietly*"}
+]

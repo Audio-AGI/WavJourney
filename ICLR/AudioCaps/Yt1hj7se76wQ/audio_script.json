@@ -1,0 +1,5 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 9.5, "desc": "Rapid typing on a keyboard"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 0.5, "desc": "A single, sharp ding sound"}
+]

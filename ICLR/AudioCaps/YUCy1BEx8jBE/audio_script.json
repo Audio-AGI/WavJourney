@@ -1,0 +1,12 @@
+
+[
+{"audio_type": "music", "layout": "background", "id": 1, "action": "begin", "vol": -35, "desc": "Soothing flute music, lightly playing"},
+
+{"audio_type": "sound_effect", "layout": "background", "id": 2, "action": "begin", "vol": -35, "desc": "Gentle splashing of a stream flowing"},
+
+{"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -20, "text": "The tranquility of nature is a balm for the soul. As the water splashes and the music plays, everything else is forgotten."},
+
+{"audio_type": "sound_effect", "layout": "background", "id": 2, "action": "end"},
+
+{"audio_type": "music", "layout": "background", "id": 1, "action": "end"}
+]

@@ -1,0 +1,5 @@
+
+[
+  {"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -20, "text": "What a beautiful morning, wouldn't you agree?"},
+  {"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 3, "desc": "Bird chirping, nature sounds"}
+]

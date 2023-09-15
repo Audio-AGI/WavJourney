@@ -1,0 +1,7 @@
+
+[
+    {"audio_type": "speech", "layout": "foreground", "character": "Man 1", "vol": -25, "text": "Hello there, I was wondering if you could help me out."},
+    {"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "begin", "vol": -35, "desc": "Phone dial tone"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Man 2", "vol": -15, "text": "Hello, this is customer service. How may I assist you?"},
+    {"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "end"}
+]

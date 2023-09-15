@@ -1,0 +1,9 @@
+
+[
+{"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "begin", "vol": -35, "desc": "Ambient sound of a crowd of people laughing"},
+{"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -20, "text": "Thank you everyone, you've been an amazing audience"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 1, "desc": "Microphone feedback sound"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 2, "desc": "Laughter of a crowd"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 1, "desc": "Sound of glass clinking"},
+{"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "end"}
+]

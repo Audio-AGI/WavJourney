@@ -1,0 +1,6 @@
+
+[
+    {"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -20, "text": "This is the best thing you will ever hear! Wait for it..."},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 2, "desc": "A loud bursting sound"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 3, "desc": "People laughing with joy and amusement"}
+]

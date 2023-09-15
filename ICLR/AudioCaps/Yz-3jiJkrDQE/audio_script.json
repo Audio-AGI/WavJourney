@@ -1,0 +1,6 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Soft room ambiance"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Adult Male", "vol": -25, "text": "Good evening, I hope everyone is having a peaceful night."},
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

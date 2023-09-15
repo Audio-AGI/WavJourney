@@ -1,0 +1,8 @@
+
+[
+    {"audio_type": "speech", "layout": "foreground", "character": "Woman", "vol": -25, "text": "I think we can all agree, this has been quite the eventful day"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 1, "desc": "Phone chimes softly"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 1, "desc": "Comedic, exaggerated burp sound"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 2, "desc": "Loud, contagious laughter"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 5, "desc": "Warm, comforting applause"}
+]

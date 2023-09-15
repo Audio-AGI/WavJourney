@@ -1,0 +1,6 @@
+
+[
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 3, "desc": "Small motor buzzing"},
+{"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -20, "text": "The job is done. I'll be on my way."},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 4, "desc": "Metal door closing"}
+]

@@ -1,0 +1,6 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Ongoing Whistling sound"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -20, "text": "This is an amazing day, isn't it folks? Lovely weather, great company!"},
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

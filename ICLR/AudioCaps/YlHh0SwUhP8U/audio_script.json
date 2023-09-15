@@ -1,0 +1,6 @@
+
+[
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 3, "desc": "Gunshot sound"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 3, "desc": "Click and clack sound"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 4, "desc": "Second gunshot sound"}
+]

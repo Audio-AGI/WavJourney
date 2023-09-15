@@ -1,0 +1,9 @@
+
+[
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Motorcycle engine idling"},
+{"audio_type": "sound_effect", "layout": "background", "id":2, "action": "begin", "vol": -35, "desc": "People talking in a busy setting"},
+{"audio_type": "speech", "layout": "foreground", "character": "Male 1", "vol": -25, "text": "It's a beautiful day, isn't it?"},
+{"audio_type": "speech", "layout": "foreground", "character": "Male 2", "vol": -20, "text": "Absolutely. Perfect for a ride."},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"},
+{"audio_type": "sound_effect", "layout": "background", "id":2, "action": "end"}
+]

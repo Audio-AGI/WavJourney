@@ -1,0 +1,9 @@
+
+[
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Sound of water splashing"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 2, "desc": "Sound of person screaming"},
+{"audio_type": "speech", "layout": "foreground", "character": "Person1", "vol": -20, "text": "Oh, wow!"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 2, "desc": "Sound of person laughing"},
+{"audio_type": "speech", "layout": "foreground", "character": "Person2", "vol": -20, "text": "That was fun!"},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

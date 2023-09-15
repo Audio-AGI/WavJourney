@@ -1,0 +1,6 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Bee buzzing sound"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -25, "text": "In the heart of the garden, here we are. It's a sunny, perfect day surrounded by the symphony of nature."},
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

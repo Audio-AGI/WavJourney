@@ -1,0 +1,7 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "begin", "vol": -35, "desc": "Gentle splashing of water"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Woman", "vol": -20, "text": "Everything in life is like the flow of water, it never stops, it just changes form."}, 
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 2, "desc": "Sound of water splash"},
+    {"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "end"}
+]

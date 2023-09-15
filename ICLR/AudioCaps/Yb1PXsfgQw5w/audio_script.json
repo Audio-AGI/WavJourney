@@ -1,0 +1,6 @@
+
+[
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "People giggling"},
+{"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -20, "text": "Good evening, everyone."},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

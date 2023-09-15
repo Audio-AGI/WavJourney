@@ -1,0 +1,9 @@
+
+[
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Rustling sound, possibly leaves or similar materials"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 5, "desc": "Scraping sound, like branches being dragged across a rough surface"},
+{"audio_type": "sound_effect", "layout": "background", "id":2, "action": "begin", "vol": -35, "desc": "Pigeons coo softly in the distance"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 5, "desc": "Continued scraping sound, a bit more intense"},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"},
+{"audio_type": "sound_effect", "layout": "background", "id":2, "action": "end"}
+]

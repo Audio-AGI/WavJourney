@@ -1,0 +1,7 @@
+
+[
+{"audio_type": "speech", "layout": "foreground", "character": "Woman", "vol": -20, "text": "Where did I leave my keys?"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 2, "desc": "Rummaging sound, searching through bag"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 3, "desc": "Frustrated groaning sound"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 3, "desc": "Grunting sound, lifting something heavy"}
+]

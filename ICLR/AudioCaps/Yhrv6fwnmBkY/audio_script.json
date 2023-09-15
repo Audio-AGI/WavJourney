@@ -1,0 +1,7 @@
+
+[
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 3, "desc": "Rooster clucking"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 2, "desc": "Dog whimpering"},
+{"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -25, "text": "What's going on there?"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 3, "desc": "Dog barking"}
+]

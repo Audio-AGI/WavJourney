@@ -1,0 +1,7 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Buzzing of insects sound"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Man 1", "vol": -25, "text": "It's a perfect night, isn't it?"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Man 2", "vol": -25, "text": "Indeed, nothing like being one with nature."},
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

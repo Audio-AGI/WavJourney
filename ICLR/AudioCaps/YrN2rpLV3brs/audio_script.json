@@ -1,0 +1,6 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Metal clanking on porcelain dish sound"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -25, "text": "This is a unique process we are observing here, the documentation of a subtle craft that has been passed on from generations. It requires a certain delicacy."},
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

@@ -1,0 +1,7 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 2, "desc": "Baby crying"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 1, "desc": "Sneezing sound"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 2, "desc": "Baby crying"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Female", "vol": -15, "text": "Oh dear, it's okay."}
+]

@@ -1,0 +1,8 @@
+
+[
+  {"audio_type": "speech", "layout": "foreground", "character": "Man 1", "vol": -20, "text": "Looks like trouble ahead."},
+  {"audio_type": "speech", "layout": "foreground", "character": "Man 2", "vol": -15, "text": "AAAAAAAHHH!"},
+  {"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 2, "desc": "Multiple gunshot sounds"},
+  {"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 2, "desc": "Multiple gunshot sounds"},
+  {"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 2, "desc": "Multiple gunshot sounds"}
+]

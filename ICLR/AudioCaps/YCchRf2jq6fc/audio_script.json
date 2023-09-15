@@ -1,0 +1,6 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "background", "id":1,"action": "begin","vol": -35, "desc": "Soft, ambient room noise"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Adult Female", "vol": -25, "text": "This is an example of a quiet environment and the sound my voice makes within it."},
+    {"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "end"}
+]

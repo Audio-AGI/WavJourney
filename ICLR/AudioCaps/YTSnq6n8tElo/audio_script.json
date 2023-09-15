@@ -1,0 +1,5 @@
+
+[
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 1.5, "desc": "Tapping noise on a desk"},
+{"audio_type": "speech", "layout": "foreground", "character": "Child", "vol": -20, "text": "Hello, is anyone there?"}
+]

@@ -1,0 +1,6 @@
+
+[
+  {"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 3, "desc": "Sound of light rough materials such as paper or leaves rustling"},
+  {"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 2, "desc": "Whistling sound resembling the tune a person would whistle"},
+  {"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 5, "desc": "Melodious chirping of birds, typically heard in a forest"}
+]

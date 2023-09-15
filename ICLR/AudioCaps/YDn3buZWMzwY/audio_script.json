@@ -1,0 +1,12 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Sound of snoring, steady and rhythmic"},
+    
+    {"audio_type": "speech", "layout": "foreground", "character": "Man 1", "vol": -25, "text": "Can you believe this? Just listen to him snore."},
+    
+    {"audio_type": "speech", "layout": "foreground", "character": "Man 2", "vol": -25, "text": "He is in deep sleep, nothing seems to disturb him."},
+
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 3, "desc": "Laughing sounds"},
+
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

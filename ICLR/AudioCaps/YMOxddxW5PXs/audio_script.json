@@ -1,0 +1,10 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Sizzle sound of food frying"},
+    {"audio_type": "sound_effect", "layout": "background", "id":2, "action": "begin", "vol": -35, "desc": "Sound of stirring utensil against cooking pot"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -25, "text": "The best thing about cooking is the beautiful fusion of flavors. It's almost like creating art."},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 2, "desc": "Food being flipped in a pan"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -25, "text": "And the result is always a symphony of tastes and textures."},
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"},
+    {"audio_type": "sound_effect", "layout": "background", "id":2, "action": "end"}
+]

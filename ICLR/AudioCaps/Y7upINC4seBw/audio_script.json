@@ -1,0 +1,9 @@
+
+[
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Motorboat engine running idle"},
+{"audio_type": "sound_effect", "layout": "background", "id":2, "action": "begin", "vol": -35, "desc": "Sound of wind blowing into a microphone"},
+{"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -20, "text": "Sometimes the best choice is to let the wind guide you. It's not the destination, but the journey that matters."},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 2, "desc": "Pause, with only the sound of the motorboat engine running and the wind blowing"},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"},
+{"audio_type": "sound_effect", "layout": "background", "id":2, "action": "end"}
+]

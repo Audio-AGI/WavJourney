@@ -1,0 +1,11 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "begin", "vol": -35, "desc": "Engine running, with occasional clicks and sputters"},
+    {"audio_type": "sound_effect", "layout": "background", "id": 2, "action": "begin", "vol": -35, "desc": "The sound of wind blowing gently"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Person 1", "vol": -25, "text": "So, here's the thing about engines..."},
+    {"audio_type": "speech", "layout": "foreground", "character": "Person 2", "vol": -25, "text": "Mhm, I'm listening..."},
+    {"audio_type": "speech", "layout": "foreground", "character": "Person 1", "vol": -25, "text": "They're more than just moving parts. They're like a symphony."},
+    {"audio_type": "speech", "layout": "foreground", "character": "Person 2", "vol": -25, "text": "Sounds fascinating. Tell me more."}, 
+    {"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "end"},
+    {"audio_type": "sound_effect", "layout": "background", "id": 2, "action": "end"}
+]

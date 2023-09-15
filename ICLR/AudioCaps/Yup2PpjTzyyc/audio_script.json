@@ -1,0 +1,7 @@
+
+[
+{"audio_type": "music", "layout": "foreground", "vol": -20, "len": 3, "desc": "Happy introductory piano music"},
+{"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -25, "text": "Hello, welcome to the show."},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 2, "desc": "Short beep sequence"},
+{"audio_type": "music", "layout": "foreground", "vol": -20, "len": 2, "desc": "Person singing a joyful tune"}
+]

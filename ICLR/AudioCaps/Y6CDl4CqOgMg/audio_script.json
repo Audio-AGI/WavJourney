@@ -1,0 +1,5 @@
+[
+  {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Whirring mechanical noise"},
+  {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 10, "desc": "Dog heavily breathing"},
+  {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

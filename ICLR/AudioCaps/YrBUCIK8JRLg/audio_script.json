@@ -1,0 +1,10 @@
+
+[
+{"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "begin", "vol": -35, "desc": "Muffled water splashing"},
+{"audio_type": "sound_effect", "layout": "background", "id": 2, "action": "begin", "vol": -35, "desc": "Ocean waves crashing"},
+{"audio_type": "sound_effect", "layout": "background", "id": 3, "action": "begin", "vol": -35, "desc": "Plastic camera muffling"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 10, "desc": "Water splashing and ocean waves sounds through camera muffling"},
+{"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "end"},
+{"audio_type": "sound_effect", "layout": "background", "id": 2, "action": "end"},
+{"audio_type": "sound_effect", "layout": "background", "id": 3, "action": "end"}
+]

@@ -1,0 +1,7 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 2, "desc": "Man exhaling deeply"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 2, "desc": "Man gasping for air"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -20, "text": "I... I need help."},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 2, "desc": "Man gurgling"}
+]

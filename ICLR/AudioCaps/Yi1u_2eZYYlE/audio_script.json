@@ -1,0 +1,14 @@
+
+[
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 1, "desc": "A short buzzer sound creating vibration"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 1, "desc": "A short pause with no sound"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 1, "desc": "A short buzzer sound creating vibration"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 1, "desc": "A short pause with no sound"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 1, "desc": "A short buzzer sound creating vibration"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 1, "desc": "A short pause with no sound"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 1, "desc": "A short buzzer sound creating vibration"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 1, "desc": "A short pause with no sound"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 1, "desc": "A short buzzer sound creating vibration"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 1, "desc": "A short pause with no sound"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 1, "desc": "A short buzzer sound creating vibration"}
+]

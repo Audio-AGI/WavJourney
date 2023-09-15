@@ -1,0 +1,5 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 7, "desc": "Fast and sharp tap sounds of typewriter keys"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 3, "desc": "Intermittent zipping sound of the typewriter's carriage"}
+]

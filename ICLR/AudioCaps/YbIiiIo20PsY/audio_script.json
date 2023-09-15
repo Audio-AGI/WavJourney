@@ -1,0 +1,6 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Buzzing sounds of a group of bees"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -25, "text": "Over here we have a group of busy bees. Their collective buzzing is quite captivating, don't you think?"},
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

@@ -1,0 +1,9 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Rustling noises, like leaves or paper"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Person 1", "vol": -25, "text": "What a beautiful day, don't you think?"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 1, "desc": "Animals bleating"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Person 2", "vol": -25, "text": "Yes, it sure is. The weather is just perfect."},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 1, "desc": "Animals bleating"},
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

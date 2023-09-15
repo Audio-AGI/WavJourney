@@ -1,0 +1,8 @@
+
+[
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Occasional faint booms in the distance"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 3, "desc": "Whistling a happy tune"},
+{"audio_type": "speech", "layout": "foreground", "character": "Person", "vol": -25, "text": "The sun is shining brightly, it's going to be a great day"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 3, "desc": "Fast typing on a mechanical keyboard"},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

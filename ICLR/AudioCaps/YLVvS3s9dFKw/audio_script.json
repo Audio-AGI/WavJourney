@@ -1,0 +1,8 @@
+
+[
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Water spraying into a sink"},
+{"audio_type": "sound_effect", "layout": "background", "id":2, "action": "begin", "vol": -35, "desc": "Water draining from a sink"},
+{"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -20, "text": "As I was saying, we need to put more effort into sustainability. Waste disposal is one aspect we need to prioritize."},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"},
+{"audio_type": "sound_effect", "layout": "background", "id":2, "action": "end"}
+]

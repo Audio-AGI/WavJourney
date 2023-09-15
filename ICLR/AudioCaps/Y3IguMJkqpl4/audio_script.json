@@ -1,0 +1,8 @@
+
+[
+{"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -25, "text": "Good day, it's a beautiful morning..."},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 2, "desc": "Sound of a baby crying"},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Duck quacking"},
+{"audio_type": "speech", "layout": "foreground", "character": "Woman", "vol": -25, "text": "Yes, indeed. The weather is simply delightful."},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

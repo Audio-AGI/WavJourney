@@ -1,0 +1,9 @@
+
+[
+{"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "begin", "vol": -35, "desc": "Sound of wind blowing"},
+{"audio_type": "speech", "layout": "foreground", "character": "Male", "vol": -25, "text": "This is an experience like no other. Feel the wind, hear the birds. Breathe in nature."},
+{"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "end"},
+{"audio_type": "sound_effect", "layout": "background", "id": 2, "action": "begin", "vol": -35, "desc": "Birds chirping, portraying a peaceful morning"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 3, "desc": "Silence indicating a pause for taking in the environment"},
+{"audio_type": "sound_effect", "layout": "background", "id": 2, "action": "end"}
+]

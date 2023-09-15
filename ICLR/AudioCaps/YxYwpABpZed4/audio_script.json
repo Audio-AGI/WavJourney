@@ -1,0 +1,10 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Background noise of kitchen ambiance"},
+    {"audio_type": "sound_effect", "layout": "background", "id":2, "action": "begin", "vol": -35, "desc": "Sounds of utensils and pots"},
+    {"audio_type": "sound_effect", "layout": "background", "id":3, "action": "begin", "vol": -35, "desc": "Sizzling oil fry sound"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Unnamed Woman", "vol": -20, "text": "I find cooking to be a calming routine amidst my busy schedule."},
+    {"audio_type": "sound_effect", "layout": "background", "id":3, "action": "end"},
+    {"audio_type": "sound_effect", "layout": "background", "id":2, "action": "end"},
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

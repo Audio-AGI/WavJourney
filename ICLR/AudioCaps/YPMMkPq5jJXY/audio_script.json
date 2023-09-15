@@ -1,0 +1,8 @@
+
+[
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 5, "desc": "Sound of person burping"},
+{"audio_type": "speech", "layout": "foreground", "vol": -20, "character": "Person", "text": "That's hilarious!"},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Continuous burping sounds"},
+{"audio_type": "speech", "layout": "foreground", "vol": -20, "character": "Person", "text": "Can't stop burping... Excuse me!"},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

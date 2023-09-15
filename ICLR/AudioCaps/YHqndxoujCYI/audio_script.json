@@ -1,0 +1,7 @@
+
+[
+  {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 6, "desc": "Loud ringing of a clock"},
+  {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Faint ticking of a clock"},
+  {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 4, "desc": "Faint ticking of a clock, louder than the background ticking sound"},
+  {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

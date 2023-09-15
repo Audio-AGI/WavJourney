@@ -1,0 +1,13 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 1, "desc": "Gunshots being fired"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 1, "desc": "Loud exhale of person"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 1, "desc": "Gunshots being fired"},
+    {"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "begin", "vol": -35, "desc": "Revolver chamber spinning sound"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 1, "desc": "Exhale of person"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 2, "desc": "Footsteps on stone surface"},
+    {"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "end"},
+    {"audio_type": "sound_effect", "layout": "background", "id": 2, "action": "begin", "vol": -35, "desc": "Beating heart sound"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 2, "desc": "Footsteps on stone surface"},
+    {"audio_type": "sound_effect", "layout": "background", "id": 2, "action": "end"}
+]

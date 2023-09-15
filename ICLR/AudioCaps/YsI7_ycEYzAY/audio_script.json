@@ -1,0 +1,10 @@
+
+[
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Continuous ticking of a clock"},
+
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 5, "desc": "High-pitched humming sound"},
+
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 5, "desc": "A person sniffing"},
+
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

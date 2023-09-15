@@ -1,0 +1,7 @@
+
+[
+  {"audio_type": "speech", "layout": "foreground", "character": "Woman", "vol": -20, "text": "..and that’s when I decided to take action."},
+  {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Crying infant sound"},
+  {"audio_type": "speech", "layout": "foreground", "character": "Young Girl", "vol": -25, "text": "Mom, I didn’t take the cookie!"},
+  {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

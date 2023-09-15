@@ -1,0 +1,6 @@
+
+[
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Continuous water splashing"},
+{"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -25, "text": "As you can hear, the water is continuously splashing here."},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

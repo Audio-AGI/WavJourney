@@ -1,0 +1,7 @@
+
+[
+{"audio_type": "speech", "layout": "foreground", "character": "Man2", "vol": -25, "text": "Thank you all for coming here today, it truly means a lot"},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Random chatter in the background"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 2, "desc": "People applauding and cheering"},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

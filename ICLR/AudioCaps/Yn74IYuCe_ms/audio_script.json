@@ -1,0 +1,6 @@
+
+[
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Gentle river stream flowing"},
+{"audio_type": "speech", "layout": "foreground", "character": "Boy", "vol": -25, "text": "This river is so beautiful!"},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

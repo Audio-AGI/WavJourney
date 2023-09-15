@@ -1,0 +1,33 @@
+
+import os
+import sys
+import datetime
+
+from APIs import TTM, TTS, TTA, MIX, CAT, COMPUTE_LEN
+
+
+fg_audio_lens = []
+wav_path = "ICLR/AudioCaps/YBLMWD6fxhpo/audio"
+os.makedirs(wav_path, exist_ok=True)
+
+
+TTA(text="Sound of walking footsteps", length=4, volume=-25, out_wav=os.path.join(wav_path, "fg_sound_effect_0_Sound_of_walking_footsteps.wav"))
+fg_audio_lens.append(COMPUTE_LEN(os.path.join(wav_path, "fg_sound_effect_0_Sound_of_walking_footsteps.wav")))
+
+TTA(text="Sound of a pig oinking", length=3, volume=-25, out_wav=os.path.join(wav_path, "fg_sound_effect_1_Sound_of_a_pig_oinking.wav"))
+fg_audio_lens.append(COMPUTE_LEN(os.path.join(wav_path, "fg_sound_effect_1_Sound_of_a_pig_oinking.wav")))
+
+TTA(text="Sound of a pig squealing", length=3, volume=-25, out_wav=os.path.join(wav_path, "fg_sound_effect_2_Sound_of_a_pig_squealing.wav"))
+fg_audio_lens.append(COMPUTE_LEN(os.path.join(wav_path, "fg_sound_effect_2_Sound_of_a_pig_squealing.wav")))
+
+fg_audio_wavs = []
+fg_audio_wavs.append(os.path.join(wav_path, "fg_sound_effect_0_Sound_of_walking_footsteps.wav"))
+fg_audio_wavs.append(os.path.join(wav_path, "fg_sound_effect_1_Sound_of_a_pig_oinking.wav"))
+fg_audio_wavs.append(os.path.join(wav_path, "fg_sound_effect_2_Sound_of_a_pig_squealing.wav"))
+CAT(wavs=fg_audio_wavs, out_wav=os.path.join(wav_path, "foreground.wav"))
+
+bg_audio_offsets = []
+bg_audio_wavs = []
+bg_audio_wav_offset_pairs = list(zip(bg_audio_wavs, bg_audio_offsets))
+bg_audio_wav_offset_pairs.append((os.path.join(wav_path, "foreground.wav"), 0))
+MIX(wavs=bg_audio_wav_offset_pairs, out_wav=os.path.join(wav_path, "YBLMWD6fxhpo.wav"))

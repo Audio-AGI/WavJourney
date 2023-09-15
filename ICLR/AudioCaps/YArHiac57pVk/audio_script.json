@@ -1,0 +1,7 @@
+
+[
+{"audio_type": "speech", "layout": "foreground", "character": "Male", "vol": -20, "text": "It was exactly as he said it would be."},
+{"audio_type": "speech", "layout": "foreground", "character": "Male", "vol": -25, "text": "Indeed, there's no room for doubt."},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 5, "desc": "First tick of the clock"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 5, "desc": "Second tick of the clock"}
+]

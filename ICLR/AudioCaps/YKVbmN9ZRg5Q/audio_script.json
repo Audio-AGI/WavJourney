@@ -1,0 +1,7 @@
+
+[
+  {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Train running on railroad tracks"},
+  {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 5, "desc": "Train horn blowing"},
+  {"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 5, "desc": "Steam hissing from the train"},
+  {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

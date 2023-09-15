@@ -1,0 +1,7 @@
+
+[
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 2, "desc": "Roaring sound"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 2, "desc": "Cracking noise"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 1, "desc": "Metal clinking noise"},
+{"audio_type": "speech", "layout": "foreground", "character": "Adult Male", "vol": -15, "text": "This is interesting. Classic, yet unexpected"}
+]

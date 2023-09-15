@@ -1,0 +1,6 @@
+
+[
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Motorboat engine running"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 10, "desc": "Wind blowing into the microphone"},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

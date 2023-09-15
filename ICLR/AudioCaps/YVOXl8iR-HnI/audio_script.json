@@ -1,0 +1,7 @@
+
+[
+  {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Blowing gusts of wind"},
+  {"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -20, "text": "It's getting really windy out here."},
+  {"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 4, "desc": "Sound of aircraft flying by"},
+  {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

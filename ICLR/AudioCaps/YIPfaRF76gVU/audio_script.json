@@ -1,0 +1,8 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "City ambiance, traffic sounds"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 3, "desc": "Emergency vehicle's siren"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -22, "text": "Get out of the way!"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 2, "desc": "Sound of racing vehicle"},
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

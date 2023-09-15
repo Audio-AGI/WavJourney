@@ -1,0 +1,10 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Birds chirping"},
+    {"audio_type": "sound_effect", "layout": "background", "id":2, "action": "begin", "vol": -35, "desc": "Waves crashing on the beach"},
+    {"audio_type": "sound_effect", "layout": "background", "id":3, "action": "begin", "vol": -35, "desc": "High wind blowing"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 10, "desc": "Final mix of birds chirping, waves crashing and high wind blowing"},
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"},
+    {"audio_type": "sound_effect", "layout": "background", "id":2, "action": "end"},
+    {"audio_type": "sound_effect", "layout": "background", "id":3, "action": "end"}
+]

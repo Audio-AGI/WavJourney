@@ -1,0 +1,6 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 2, "desc": "Motorboat engine starts, low rumble"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 4, "desc": "Motorboat engine revs and increases in volume"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 4, "desc": "Motorboat engine screams at full throttle"}
+]

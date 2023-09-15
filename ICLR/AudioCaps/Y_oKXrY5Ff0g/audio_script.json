@@ -1,0 +1,8 @@
+
+[
+{"audio_type": "speech", "layout": "foreground", "character": "Woman", "vol": -20, "text": "I just have to say, this is such an interesting experience for me."},
+
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 3, "desc": "Group of people laughing"},
+
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 2, "desc": "Plastic crinkling sound"}
+]

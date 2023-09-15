@@ -1,0 +1,6 @@
+
+[
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 3, "desc": "Plastic clicking sound"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 4, "desc": "Camera muffling sound"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 3, "desc": "Toy helicopter motor sound starting up"}
+]

@@ -1,0 +1,10 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 2, "desc": "Gun cocking and firing sound"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 1, "desc": "A piece of metal clanking on a hard surface"},
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Gunshots and explosions sound from a distance"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -15, "text": "We aren't going to make it if we don't act now"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 1, "desc": "Electronic laser sound effect"},
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 2, "desc": "Explosions sound continuing"}
+]

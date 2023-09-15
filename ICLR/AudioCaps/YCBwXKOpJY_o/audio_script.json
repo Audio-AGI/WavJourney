@@ -1,0 +1,10 @@
+
+[
+{"audio_type": "speech", "layout": "foreground", "character": "Woman", "vol": -20, "text": "Hello, sweetie, how was your day at school today?"},
+
+{"audio_type": "speech", "layout": "foreground", "character": "Child", "vol": -20, "text": "It was fun, mom! We learned about dinosaurs today."},
+
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 2, "desc": "Sound of a school bus driving off in the background"},
+
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 2, "desc": "Birds chirping in the background"}
+]

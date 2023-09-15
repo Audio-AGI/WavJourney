@@ -1,0 +1,6 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 5, "desc": "Surface scratching sound"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 5, "desc": "ticktock sound"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Woman", "vol": -15, "text": "Words she is speaking while the sounds are being played."}
+]

@@ -1,0 +1,7 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Crowd murmuring"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 5, "desc": "Siren blaring far away"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 5, "desc": "Siren stops abruptly"},
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

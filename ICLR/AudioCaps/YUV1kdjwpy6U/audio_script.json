@@ -1,0 +1,7 @@
+
+[
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 5, "desc": "Vehicle engine running"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 5, "desc": "Vehicle engine powering down"},
+{"audio_type": "speech", "character": "Man", "layout": "foreground", "vol": -25, "text": "I've never seen anything like this before"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 1, "desc": "Short static noise"}
+]

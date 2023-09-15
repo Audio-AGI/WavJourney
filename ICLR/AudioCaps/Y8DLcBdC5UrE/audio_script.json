@@ -1,0 +1,10 @@
+
+[
+  {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 2, "desc": "Muffled static noise"},
+  {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 2, "desc": "Popping sound"},
+  {"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "begin", "vol": -35, "desc": "Birds chirping at a distance"},
+  {"audio_type": "sound_effect", "layout": "background", "id": 2, "action": "begin", "vol": -35, "desc": "Sound of vehicles driving by"},
+  {"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 3, "desc": "Water dripping sound"},
+  {"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "end"},
+  {"audio_type": "sound_effect", "layout": "background", "id": 2, "action": "end"}
+]

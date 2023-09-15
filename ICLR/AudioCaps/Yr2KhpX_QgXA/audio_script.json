@@ -1,0 +1,6 @@
+
+[
+  {"audio_type": "speech", "layout": "foreground", "character": "Man 1", "vol": -25, "text": "It's going to be a smooth ride."},
+  {"audio_type": "speech", "layout": "foreground", "character": "Man 2", "vol": -25, "text": "We've checked everything. We are good to go."},
+  {"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 4, "desc": "Car engine starting and revving"}
+]

@@ -1,0 +1,10 @@
+
+
+[
+  {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Series of vehicle horns honking"},
+  {"audio_type": "sound_effect", "layout": "background", "id":2, "action": "begin", "vol": -35, "desc": "Group of people talking"},
+  {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 5, "desc": "Vehicle engine running"},
+  {"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 5, "desc": "Vehicle engine accelerating"},
+  {"audio_type": "sound_effect", "layout": "background", "id":2, "action": "end"},
+  {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

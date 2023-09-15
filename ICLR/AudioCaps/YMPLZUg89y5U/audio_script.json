@@ -1,0 +1,9 @@
+
+[
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Large truck engine running idle"},
+{"audio_type": "sound_effect", "layout": "background", "id":2, "action": "begin", "vol": -35, "desc": "Sound of wind blowing"},
+{"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -20, "text": "And here we are on site, the enormous vehicle idling in the background. We're not sure what to expect next."},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 0.5, "desc": "Microphone picks up gust of wind"},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"},
+{"audio_type": "sound_effect", "layout": "background", "id":2, "action": "end"}
+]

@@ -1,0 +1,6 @@
+
+[
+  {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 4, "desc": "Rapid gunfire"},
+  {"audio_type": "speech", "layout": "foreground", "character": "Male on Radio", "vol": -25, "text": "We are under attack, need immediate backup"},
+  {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 4, "desc": "Rapid gunfire"}
+]

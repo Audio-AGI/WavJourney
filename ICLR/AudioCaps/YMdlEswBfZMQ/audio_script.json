@@ -1,0 +1,5 @@
+
+[
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 5, "desc": "People laughing cheerfully"},
+{"audio_type": "speech", "layout": "foreground", "character": "Kid", "vol": -25, "text": "I wish I could laugh like that!"}
+]

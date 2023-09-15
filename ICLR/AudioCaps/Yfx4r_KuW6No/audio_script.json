@@ -1,0 +1,11 @@
+
+[
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Buzzing of a home in the daytime"},
+{"audio_type": "speech", "layout": "foreground", "character": "Woman", "vol": -20, "text": "Sweetie, why are you crying?"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 1, "desc": "Child crying sound effect"},
+{"audio_type": "speech", "layout": "foreground", "character": "Child", "vol": -20, "text": "I don't know mommy."},
+{"audio_type": "speech", "layout": "foreground", "character": "Woman", "vol": -20, "text": "It's okay honey. Tell me what's wrong."},
+{"audio_type": "speech", "layout": "foreground", "character": "Child", "vol": -20, "text": "I can't find my teddy."},
+{"audio_type": "speech", "layout": "foreground", "character": "Woman", "vol": -20, "text": "Don't worry. We'll find it."},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

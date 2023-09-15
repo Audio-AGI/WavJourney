@@ -1,0 +1,8 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 6, "desc": "Rustling of clothes and objects"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 4, "desc": "Footsteps on a hard surface"},
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Brief gasping of people, showing surprise"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 5, "desc": "Continuation of rustling and footsteps"},
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

@@ -1,0 +1,7 @@
+
+[
+  {"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 3, "desc": "Intense explosion sound"},
+  {"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 2, "desc": "Sound of debris rattling, fading gradually"},
+  {"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 3, "desc": "Second intense explosion sound"},
+  {"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 2, "desc": "Sound of debris rattling, fading gradually"}
+]

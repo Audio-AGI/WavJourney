@@ -1,0 +1,6 @@
+
+[
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Wood thumping sound"},
+{"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -20, "text": "Good day to you all. I'm here to discuss important matters that need our immediate attention."},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

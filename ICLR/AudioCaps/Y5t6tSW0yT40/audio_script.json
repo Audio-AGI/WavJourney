@@ -1,0 +1,7 @@
+
+[
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 2, "desc": "Clicking sound of a machine being turned on"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 3, "desc": "Mechanical sound of machine preparing to spray"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 5, "desc": "Spraying sound effect for an extended period"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 2, "desc": "Mechanical sound of machine being turned off after spraying"}
+]

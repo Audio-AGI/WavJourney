@@ -1,0 +1,6 @@
+
+[
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Continuous wind noise"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 10, "desc": "Speedboat engine roaring and racing across water"},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

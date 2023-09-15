@@ -1,0 +1,6 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 5, "desc": "A cat meowing"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Person 1", "vol": -25, "text": "Did you hear that?"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Person 2", "vol": -25, "text": "Yes, it was the cat."}
+]

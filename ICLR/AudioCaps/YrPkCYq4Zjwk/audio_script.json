@@ -1,0 +1,10 @@
+
+[
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 2, "desc": "Synthesized rumble"},
+{"audio_type": "speech", "layout": "foreground", "character": "Robotic Woman", "vol": -25, "text": "This is a robotic woman speaking"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 1, "desc": "Electronic beeps"},
+{"audio_type": "speech", "layout": "foreground", "character": "Man 1", "vol": -20, "text": "Now, a human is speaking"},
+{"audio_type": "music", "layout": "background", "id": 1, "action": "begin", "vol": -35, "desc": "Soft ambient music"},
+{"audio_type": "speech", "layout": "foreground", "character": "Intercom Man", "vol": -25, "text": "This is intercom speaking while music plays"},
+{"audio_type": "music", "layout": "background", "id": 1, "action": "end"}
+]

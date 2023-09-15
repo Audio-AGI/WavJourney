@@ -1,0 +1,7 @@
+
+[
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 5, "desc": "The whirring sound of helicopter blades"},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Continuous gusts of wind blowing"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 5, "desc": "Sound of wind blowing into a microphone"},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

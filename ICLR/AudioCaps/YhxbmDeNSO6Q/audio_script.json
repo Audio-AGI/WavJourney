@@ -1,0 +1,8 @@
+
+[
+{"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "begin", "vol": -35, "desc": "Light sewing machine operation sound"},
+{"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -20, "text": "There's an art to this."},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -22, "len": 3, "desc": "Plastic clicking noise"},
+{"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -20, "text": "And see, that's a masterpiece."},
+{"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "end"}
+]

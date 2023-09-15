@@ -1,0 +1,6 @@
+
+[
+    {"audio_type": "speech", "layout": "foreground", "character": "Woman", "vol": -20, "text": "Could you please come a little closer?"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -15, "text": "Why do I need to come closer?"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Woman", "vol": -20, "text": "Just wondering if we could have a more intimate talk."}
+]

@@ -1,0 +1,9 @@
+
+[
+{"audio_type": "speech", "layout": "foreground", "character": "Female #1", "vol": -25, "text": "Excuse me, I will be right back"},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Distant chatter of multiple females"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 3, "desc": "Toilet flushing"},
+{"audio_type": "speech", "layout": "foreground", "character": "Female #2", "vol": -25, "text": "Did she just leave during the meeting?"},
+{"audio_type": "speech", "layout": "foreground", "character": "Female #3", "vol": -25, "text": "Looks like it, quite rude actually"},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

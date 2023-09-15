@@ -1,0 +1,7 @@
+
+[
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "A crowd of people talking"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 5, "desc": "Bells chiming"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 5, "desc": "Train whistle blowing"},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

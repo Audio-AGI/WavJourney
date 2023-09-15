@@ -1,0 +1,11 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Sound of ocean waves crashing"},
+    {"audio_type": "sound_effect", "layout": "background", "id":2, "action": "begin", "vol": -35, "desc": "Sound of water streaming"},
+    {"audio_type": "sound_effect", "layout": "background", "id":3, "action": "begin", "vol": -35, "desc": "Sound of wind blowing into a microphone"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -25, "text": "Inaudible speech faintly heard from a distance"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 10, "desc": "Fast forward sound effect to fit all events within 10 seconds"},
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"},
+    {"audio_type": "sound_effect", "layout": "background", "id":2, "action": "end"},
+    {"audio_type": "sound_effect", "layout": "background", "id":3, "action": "end"}
+]

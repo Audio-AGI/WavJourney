@@ -1,0 +1,8 @@
+
+[
+  {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Continuous rain"},
+  {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 3, "desc": "Heavy rain dying down"},
+  {"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 4, "desc": "Pause, only light rain can be heard"},
+  {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 3, "desc": "Heavy rain starting again"},
+  {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

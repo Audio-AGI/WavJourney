@@ -1,0 +1,7 @@
+
+[
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Sheep bleating in the field"},
+{"audio_type": "speech", "layout": "foreground", "character": "Man 1", "vol": -25, "text": "You won't believe what happened today at the farm"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 1, "desc": "Man laughing loudly"},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

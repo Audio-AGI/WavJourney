@@ -1,0 +1,7 @@
+
+[
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Engine running, steady humming"},
+{"audio_type": "speech", "layout": "foreground", "character": "Man 1", "vol": -20, "text": "How's the engine holding up, Mike?"},
+{"audio_type": "speech", "layout": "foreground", "character": "Man 2", "vol": -20, "text": "Seems steady, just have to keep an eye on the oil level."},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

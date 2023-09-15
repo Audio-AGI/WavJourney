@@ -1,0 +1,8 @@
+
+[
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Motorcycle engine idling"},
+{"audio_type": "sound_effect", "layout": "background", "id":2, "action": "begin", "vol": -35, "desc": "Subtle vibrations from an idling motorcycle engine"},
+{"audio_type": "speech", "layout": "foreground", "vol": -15, "character": "Adult Male", "text": "Here we are, just soaking in the atmosphere. Listen to that baby purr, isn't that just music to your ears?"},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"},
+{"audio_type": "sound_effect", "layout": "background", "id":2, "action": "end"}
+]

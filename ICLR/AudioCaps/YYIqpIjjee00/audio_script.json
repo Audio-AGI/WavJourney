@@ -1,0 +1,5 @@
+
+[
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 3, "desc": "Sound effect of toilet flush lever pulled"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 7, "desc": "Sound effect of water rushing as the toilet bowl is refilling"}
+]

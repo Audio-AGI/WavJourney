@@ -1,0 +1,14 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 2, "desc": "Wood stirring in a pot"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -18, "len": 1, "desc": "Wooden object falling"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Woman", "vol": -25, "text": "Let me tell you about this amazing recipe."},
+    
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Food sizzling in a pan"},
+    {"audio_type": "music", "layout": "background", "id":2, "action": "begin", "vol": -35, "desc": "Light acoustic guitar music"},
+
+    {"audio_type": "speech", "layout": "foreground", "character": "Woman", "vol": -25, "text": "First, you need fresh vegetables. Then, add some spices and let it simmer."},
+    
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"},
+    {"audio_type": "music", "layout": "background", "id":2, "action": "end"}
+]

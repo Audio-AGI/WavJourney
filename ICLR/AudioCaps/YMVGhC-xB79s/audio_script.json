@@ -1,0 +1,7 @@
+
+[
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "continuous bird chirping sounds"},
+{"audio_type": "speech", "layout": "foreground", "character": "Child", "vol": -20, "text": "Can you hear them? The birds are singing."},
+{"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -15, "text": "Yes, the sounds of nature can be so calming."},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

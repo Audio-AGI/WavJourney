@@ -1,0 +1,8 @@
+
+[
+  {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 2, "desc": "Metal squeaking and clanking"},
+
+  {"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -15, "text": "Hmm, that should be okay now."},
+
+  {"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 3, "desc": "Faucet pouring water"}
+]

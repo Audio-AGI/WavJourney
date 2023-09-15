@@ -1,0 +1,6 @@
+
+[
+  {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 4, "desc": "Mid-size motor vehicle engine running fast"},
+  {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 1, "desc": "Gears changing"},
+  {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 5, "desc": "Motor vehicle accelerating"}
+]

@@ -1,0 +1,7 @@
+
+[
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Continuous low volume electric motor running"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 2, "desc": "Metallic rubbing sound, like parts grinding together"},
+{"audio_type": "speech", "layout": "foreground", "character": "Narrator", "vol": -25, "text": "But, while the motor runs, an unusual rubbing occurs"},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

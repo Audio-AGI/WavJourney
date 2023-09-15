@@ -1,0 +1,6 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 3, "desc": "Whistling sound"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 3, "desc": "Laughing sound"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Unknown Male", "vol": -15, "text": "A few words spoken vaguely in the distance"}
+]

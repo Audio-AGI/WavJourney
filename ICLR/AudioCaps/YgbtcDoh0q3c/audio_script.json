@@ -1,0 +1,8 @@
+
+[
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 2, "desc": "Sound of something being scraped"},
+{"audio_type": "speech", "layout": "foreground", "character": "Speaker", "vol": -25, "text": "What's that scraping noise?"},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Sound of a group of people laughing in the distance"},
+{"audio_type": "speech", "layout": "foreground", "character": "Speaker", "vol": -25, "text": "It appears we have an audience!"},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+] 

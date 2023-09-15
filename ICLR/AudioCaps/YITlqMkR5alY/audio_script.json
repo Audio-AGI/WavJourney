@@ -1,0 +1,9 @@
+
+[
+  {"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 3, "desc": "Wind blowing"},
+  {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 2, "desc": "Loud human scream"},
+  {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "People speaking faintly"},
+  {"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 2, "desc": "Wind blowing"},
+  {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 3, "desc": "Loud human scream"},
+  {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

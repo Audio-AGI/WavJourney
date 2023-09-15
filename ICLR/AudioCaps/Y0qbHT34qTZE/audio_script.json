@@ -1,0 +1,20 @@
+
+[
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Soft sounds of continuous rain splashing on different surfaces"},
+
+{"audio_type": "sound_effect", "layout": "background", "id":2, "action": "begin", "vol": -35, "desc": "Faint sounds of men speaking and conversating"},
+
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 1, "desc": "A canon fires"},
+
+{"audio_type": "speech", "layout": "foreground", "character": "Man 1", "vol": -15, "text": "Cannons ready!"},
+
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 1, "desc": "Multiple cannons firing"},
+
+{"audio_type": "speech", "layout": "foreground", "character": "Man 2", "vol": -15, "text": "Good shot!"},
+
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 3, "desc": "Thunderous sound in the background, setting the ambiance"},
+
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"},
+
+{"audio_type": "sound_effect", "layout": "background", "id":2, "action": "end"}
+]

@@ -1,0 +1,5 @@
+
+[
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 2, "desc": "Horn sound similar to a car horn"},
+{"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -20, "text": "That was a horn sound. Sometimes, it is necessary to use it for alerting others."}
+]

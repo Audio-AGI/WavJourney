@@ -1,0 +1,7 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 3, "desc": "Strong wind blowing"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Person 1", "vol": -15, "text": "What's the weather it's not looking good."},
+    {"audio_type": "speech", "layout": "foreground", "character": "Person 2", "vol": -15, "text": "Yes, it seems like a storm coming up."},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 4, "desc": "Loud burst of thunder"}
+]

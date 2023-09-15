@@ -1,0 +1,7 @@
+
+[
+  {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Tires squealing and engines revving"},
+  {"audio_type": "speech", "layout": "foreground", "character": "Announcer", "vol": -20, "text": "Attention all participants, the race is about to start soon"},
+  {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"},
+  {"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 10, "desc": "Tires squealing and engines repeatedly revving" }
+]

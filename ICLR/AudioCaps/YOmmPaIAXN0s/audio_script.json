@@ -1,0 +1,6 @@
+
+[
+{"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -20, "text": "Hello there, it's a fine morning today. You will shortly hear an amazing sound."},
+
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 5, "desc": "Sound of a horse trotting"}
+]

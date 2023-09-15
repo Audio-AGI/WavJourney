@@ -1,0 +1,7 @@
+
+[
+  {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Sound of several slaps on a hard surface"},
+  {"audio_type": "speech", "layout": "foreground", "character": "Child", "vol": -20, "text": "Yaaahhhh! Yaaahhhh! Yaaahhhh!"},
+  {"audio_type": "speech", "layout": "foreground", "character": "Young Boy", "vol": -15, "text": "Hey, stop! Cut it out!"},
+  {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

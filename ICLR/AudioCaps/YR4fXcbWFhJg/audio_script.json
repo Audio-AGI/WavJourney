@@ -1,0 +1,9 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Sound of birds chirping"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -20, "text": "I was standing there, then suddenly..."},
+    {"audio_type": "speech", "layout": "foreground", "character": "Woman", "vol": -15, "text": "HEY! YOU!"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Woman", "vol": -15, "text": "GET OUT OF HERE!"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 3, "desc": "Sound of wind blowing into a microphone"},
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

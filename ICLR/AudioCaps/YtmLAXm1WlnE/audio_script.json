@@ -1,0 +1,6 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Insects buzzing in the background"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Narrator", "vol": -25, "text": "On a peaceful, sunny day in the meadow, the insects buzzed harmoniously, communicating in a language we can hardly begin to comprehend."},
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

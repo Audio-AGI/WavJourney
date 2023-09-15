@@ -1,0 +1,8 @@
+
+[
+  {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Truck engine idling"},
+  {"audio_type": "sound_effect", "layout": "background", "id":2, "action": "begin", "vol": -35, "desc": "Distant vehicle acceleration"},
+  {"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -20, "text": "This is Alpha Bravo, come in control center, over."},
+  {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"},
+  {"audio_type": "sound_effect", "layout": "background", "id":2, "action": "end"}
+]

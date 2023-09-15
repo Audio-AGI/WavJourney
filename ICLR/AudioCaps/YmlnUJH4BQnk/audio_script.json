@@ -1,0 +1,7 @@
+
+[
+{"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "begin", "vol": -35, "desc": "Light sanding sound"},
+{"audio_type": "speech", "layout": "foreground", "character": "Woman", "vol": -25, "text": "Thank you for your effort. What you've accomplished is incredible."},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 10, "desc": "Light sanding sound"},
+{"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "end"}
+]

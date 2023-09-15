@@ -1,0 +1,6 @@
+
+[
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 2, "desc": "Few mechanical clicks"},
+{"audio_type": "speech", "layout": "foreground", "character": "Person", "vol": -15, "text": "It's a fine day, isn't it?"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 3, "desc": "A goat bleating in the distance"}
+]

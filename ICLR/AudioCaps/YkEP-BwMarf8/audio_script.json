@@ -1,0 +1,5 @@
+
+[
+  {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 3, "desc": "Crumpling paper noise"},
+  {"audio_type": "speech", "layout": "foreground", "character": "Female", "vol": -25, "text": "You can trash it now, we don't need it anymore."}
+]

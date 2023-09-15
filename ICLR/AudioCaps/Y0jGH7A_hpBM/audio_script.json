@@ -1,0 +1,7 @@
+
+[
+  {"audio_type": "speech", "layout": "foreground", "character": "Man 1", "vol": -20, "text": "Good evening. I hope you're doing well. Isn't today's weather great?"},
+  {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Rustling sound, continuous"},
+  {"audio_type": "speech", "layout": "foreground", "character": "Man 2", "vol": -15, "text": "Indeed, it's a beautiful day. Thank you for asking."},
+  {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

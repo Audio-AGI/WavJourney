@@ -1,0 +1,8 @@
+
+[
+    {"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -25, "text": "Hello there. Now hear the little gentleman."},
+    {"audio_type": "speech", "layout": "foreground", "character": "Young Kid", "vol": -25, "text": "Good day, sir."},
+    {"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -25, "text": "What a polite young man."},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 3, "desc": "Sound of plastic rattling"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 2, "desc": "Electronic beep sound"}
+]

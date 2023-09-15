@@ -1,0 +1,12 @@
+
+[
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 2, "desc": "Metal pan clacking against the hard surface"},
+
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -22, "len": 3, "desc": "Compressed air spraying sound"},
+
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Aerosol can tapping a hard surface"},
+
+{"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -25, "text": "I'm spraying the compressed air to clean the dust, and you can hear the aerosol can tapping sound in the background"},
+
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

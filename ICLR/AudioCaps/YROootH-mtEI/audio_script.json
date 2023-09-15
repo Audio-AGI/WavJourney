@@ -1,0 +1,7 @@
+
+[
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "River stream with water flowing, birds chirping in the distance"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 5, "desc": "Water gently splashing against rocks"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 5, "desc": "Rustle of leaves in the wind and an occasional distant bird call"},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

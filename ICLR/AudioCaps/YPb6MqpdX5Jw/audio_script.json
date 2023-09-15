@@ -1,0 +1,7 @@
+
+[
+  {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Wind blowing in the background"},
+  {"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 5, "desc": "Clip-clops sound of hooves galloping"},
+  {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 5, "desc": "Thunder cracking loudly"},
+  {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

@@ -1,0 +1,9 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Excited children's laughter"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Young Girl", "vol": -20, "text": "Guess what happened when we were at the park?"}, 
+    {"audio_type": "sound_effect", "layout": "background", "id":2, "action": "begin", "vol": -35, "desc": "Kids talking"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Young Girl", "vol": -20, "text": "We found an adorable puppy! It was so playful and cute."},
+    {"audio_type": "sound_effect", "layout": "background", "id":2, "action": "end"},
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

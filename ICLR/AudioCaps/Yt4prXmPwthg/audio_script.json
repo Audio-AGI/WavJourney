@@ -1,0 +1,5 @@
+
+[
+  {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 4, "desc": "Sewing machine vibrations"},
+  {"audio_type": "speech", "layout": "foreground", "vol": -15, "character": "Woman", "text": "The stitching sounds remind me of simpler times."}
+]

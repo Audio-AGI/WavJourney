@@ -1,0 +1,6 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 6, "desc": "Aircraft engine running"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 1, "desc": "Plastic click sound"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 3, "desc": "Aircraft engine slowing down"}
+]

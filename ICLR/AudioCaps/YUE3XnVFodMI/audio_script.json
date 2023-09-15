@@ -1,0 +1,5 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 5, "desc": "Crowd applause"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Woman", "vol": -25, "text": "Ladies and Gentlemen, thank you for your applause."}
+]

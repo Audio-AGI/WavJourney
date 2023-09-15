@@ -1,0 +1,8 @@
+
+[
+    {"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -20, "text": "This is a demonstration for sound effects."},   
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 2, "desc": "Sound of brush scraping"},  
+    {"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "begin", "vol": -35, "desc": "Sound of liquid spraying"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -20, "text": "There, you can hear the liquid spraying in the background."},
+	{"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "end"}
+]

@@ -1,0 +1,5 @@
+
+[
+    {"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -20, "text": "Ladies and gentlemen, thank you, for your generous support and encouragement"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 4, "desc": "Applause and cheering"}
+]

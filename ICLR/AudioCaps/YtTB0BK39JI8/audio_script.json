@@ -1,0 +1,8 @@
+
+[
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 3, "desc": "Bells ringing"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 3, "desc": "Wood shuffling and clacking"},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Muffled clock ticking"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 4, "desc": "Bells ringing while wood continues to shuffle and clack"},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

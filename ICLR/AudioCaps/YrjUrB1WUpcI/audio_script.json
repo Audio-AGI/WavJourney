@@ -1,0 +1,6 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 2, "desc": "The sound of a sink faucet being turned on"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 6, "desc": "The sound of water pouring from the faucet"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 2, "desc": "The gurgling sound of water draining down a pipe"}
+]

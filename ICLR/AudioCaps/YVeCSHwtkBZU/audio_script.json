@@ -1,0 +1,9 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 10, "desc": "Siren of an emergency vehicle"},
+    {"audio_type": "music", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Low volume suspenseful music"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 2, "desc": "Tires screeching on asphalt as vehicle accelerates"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 2, "desc": "Vehicle rushing past with the doppler effect"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 2, "desc": "Distant siren trailing off into the night. Siren echoes, slightly muffled"},
+    {"audio_type": "music", "layout": "background", "id":1, "action": "end"}
+]

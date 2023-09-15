@@ -1,0 +1,9 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "begin", "vol": -35, "desc": "Vehicles driving by sound"},
+    {"audio_type": "sound_effect", "layout": "background", "id": 2, "action": "begin", "vol": -35, "desc": "Muffled engine running sound"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Man Near", "vol": -20, "text": "I think I see them coming now."},
+    {"audio_type": "speech", "layout": "foreground", "character": "Man Far", "vol": -25, "text": "Yes, they're on their way."},
+    {"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "end"},
+    {"audio_type": "sound_effect", "layout": "background", "id": 2, "action": "end"}
+]

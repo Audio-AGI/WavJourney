@@ -1,0 +1,8 @@
+
+[
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Constant wind blowing"},
+{"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -25, "text": "And so, we continue our journey"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 2, "desc": "A young kid yelling, voice fading quickly"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 6, "desc": "Sound of an aircraft flying at a distance"},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

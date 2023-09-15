@@ -1,0 +1,16 @@
+
+[
+  {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Large motor vehicle engine idling"},
+
+  {"audio_type": "sound_effect", "layout": "background", "id":2, "action": "begin", "vol": -35, "desc": "Vehicle traffic sounds"},
+
+  {"audio_type": "sound_effect", "layout": "background", "id":3, "action": "begin", "vol": -35, "desc": "People talking in the background"},
+
+  {"audio_type": "speech", "layout": "foreground", "character": "Female adult", "vol": -25, "text": "Hello, I am speaking right now, while a large motor vehicle engine is idling, and there is vehicle traffic and people talking around me."},
+
+  {"audio_type": "sound_effect", "layout": "background", "id":3, "action": "end"},
+
+  {"audio_type": "sound_effect", "layout": "background", "id":2, "action": "end"},
+  
+  {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

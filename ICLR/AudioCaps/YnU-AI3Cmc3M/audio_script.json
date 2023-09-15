@@ -1,0 +1,7 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "begin", "vol": -35, "desc": "Birds cooing sound, wings flapping"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 5, "desc": "One large bird wing flap"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 5, "desc": "A flock of birds flapping their wings"},
+    {"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "end"}
+]

@@ -1,0 +1,10 @@
+
+[
+    {"audio_type": "speech", "layout": "foreground", "character": "Woman", "vol": -20, "text": "The food is cooking. Can you hear the sizzle?"},
+
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Sound of cooking, oil sizzling"},
+
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 2, "desc": "Porcelain plate clanking against table surface"},
+
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

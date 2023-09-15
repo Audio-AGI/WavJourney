@@ -1,0 +1,6 @@
+
+[
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Sound of bus idling"},
+{"audio_type": "speech", "layout": "foreground", "character": "Speaker", "vol": -15, "text": "Attention passengers, the bus is now ready to depart. Please take your seats."},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

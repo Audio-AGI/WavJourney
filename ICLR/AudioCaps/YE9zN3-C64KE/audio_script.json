@@ -1,0 +1,8 @@
+
+[
+    {"audio_type": "speech", "layout": "foreground", "character": "Woman", "vol": -20, "text": "And now for something truly astonishing"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 2, "desc": "Pig oinking sound"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Woman", "vol": -20, "text": "Wasn't that just delightful"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 2, "desc": "Cloth rustling sound"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 3, "desc": "Camera muffling sound"}
+]

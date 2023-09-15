@@ -1,0 +1,6 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Children talking and laughing"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Woman", "vol": -25, "text": "I was wondering when we would finally get a chance to meet."},
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

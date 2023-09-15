@@ -1,0 +1,8 @@
+
+[
+  {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Engine running"},
+  {"audio_type": "speech", "layout": "foreground", "character": "Person 1", "vol": -25, "text": "Did you see the latest news about the election?"},
+  {"audio_type": "speech", "layout": "foreground", "character": "Person 2", "vol": -25, "text": "Yes, I did. It's quite surprising, isn't it?"},
+  {"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 3, "desc": "Emergency vehicle honking"},
+  {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

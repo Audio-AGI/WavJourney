@@ -1,0 +1,9 @@
+
+[
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 3, "desc": "Sound of water splashing"},
+{"audio_type": "speech", "layout": "foreground", "character": "Baby", "vol": -15, "text": "Laughing sounds"},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Sound of chirping birds"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 3, "desc": "More water splashing"},
+{"audio_type": "speech", "layout": "foreground", "character": "Baby", "vol": -15, "text": "Continued laughing sounds"},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

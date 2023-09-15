@@ -1,0 +1,5 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 7, "desc": "The rapid and repeated gunfire"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Male Voice", "vol": -15, "text": "Everyone down now!"}
+]

@@ -1,0 +1,7 @@
+
+[
+  {"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 5, "desc": "Rapid gunfire, multiple shots fired off"},
+  {"audio_type": "sound_effect", "layout": "foreground", "vol": -35, "len": 3, "desc": "Echoing effect of gunfire"},
+  {"audio_type": "speech", "layout": "foreground", "character": "Unknown Male", "vol": -20, "text": "Everyone, get down!"},
+  {"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 2, "desc": "Final gunshot, single and loud"}
+]

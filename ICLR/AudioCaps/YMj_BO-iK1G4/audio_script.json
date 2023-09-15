@@ -1,0 +1,6 @@
+
+[
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 3, "desc": "Quick burst of vibrations from a sewing machine"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -18, "len": 4, "desc": "Clicking sounds of sewing machine"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 3, "desc": "Rattling noise from sewing machine"}
+]

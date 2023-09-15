@@ -1,0 +1,11 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Muted speech sound"},
+    {"audio_type": "sound_effect", "layout": "background", "id":2, "action": "begin", "vol": -35, "desc": "Ambient room noise"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Adult Female 1", "vol": -25, "text": "Hello, how has your day been?"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Adult Female 2", "vol": -25, "text": "It's been okay, quite busy though."},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 4, "desc": "Infant crying sound"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Adult Female 1", "vol": -25, "text": "Oh dear, it sounds like the baby needs us."},
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"},
+    {"audio_type": "sound_effect", "layout": "background", "id":2, "action": "end"}
+]

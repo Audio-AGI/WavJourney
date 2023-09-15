@@ -1,0 +1,6 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Gentle blowing wind sound"},
+    {"audio_type": "speech", "layout": "foreground", "vol": -20, "character": "Man", "text": "Today, we stand against the test of time, our spirits unbroken by the harsh winds of reality."},
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

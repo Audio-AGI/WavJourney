@@ -1,0 +1,7 @@
+[
+{"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "begin", "vol": -35, "desc": "Sound of water splashing and trickling"},
+{"audio_type": "sound_effect", "layout": "background", "id": 2, "action": "begin", "vol": -35, "desc": "Sound of wind blowing into a microphone"},
+{"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -20, "text": "This is your regular weather update. We're experiencing some rough winds and heavy rains today. Stay safe, everyone."},
+{"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "end"},
+{"audio_type": "sound_effect", "layout": "background", "id": 2, "action": "end"}
+]

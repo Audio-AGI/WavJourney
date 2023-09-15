@@ -1,0 +1,8 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "begin", "vol": -35, "desc": "Motorboat engine running"},
+    {"audio_type": "speech", "layout": "foreground", "vol": -25, "character": "Man", "text": "Just a regular day on the waters."},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 2, "desc": "Microphone wind blowing sound"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 2, "desc": "Plastic clacking sound"},
+    {"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "end"}
+]

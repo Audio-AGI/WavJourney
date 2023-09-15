@@ -1,0 +1,7 @@
+
+[
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Light sound of water trickling"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 2, "desc": "Chirping of a duck"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 8, "desc": "Sound of water splashing"},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

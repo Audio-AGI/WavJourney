@@ -1,0 +1,6 @@
+
+[
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Power tool drilling"},
+{"audio_type": "music", "layout": "foreground", "vol": -25, "len": 10, "desc": "Positive and energetic pop music"},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

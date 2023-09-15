@@ -1,0 +1,8 @@
+
+[
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 2, "desc": "Plastic cranking noise"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 2, "desc": "Metal rattling noise"},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Series of metal objects falling"},
+{"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -15, "text": "The process is not as complicated as it looks. With just a few simple steps, anyone can perform it."},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

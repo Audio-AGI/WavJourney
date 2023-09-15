@@ -1,0 +1,6 @@
+
+[
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Food frying noise"},
+{"audio_type": "speech", "layout": "foreground", "character": "Woman", "vol": -25, "text": "It's such a beautiful day and I am cooking my favorite recipe."},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

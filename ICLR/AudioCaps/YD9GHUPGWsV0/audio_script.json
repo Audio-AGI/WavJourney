@@ -1,0 +1,9 @@
+
+[
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Continuous click-clops of horse hooves"},
+{"audio_type": "sound_effect", "layout": "background", "id":2, "action": "begin", "vol": -35, "desc": "Sheep bleating and running"},
+{"audio_type": "speech", "layout": "foreground", "character": "Woman", "vol": -20, "text": "It's a beautiful day, isn't it?"},
+{"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -20, "text": "Indeed it is."},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"},
+{"audio_type": "sound_effect", "layout": "background", "id":2, "action": "end"}
+]

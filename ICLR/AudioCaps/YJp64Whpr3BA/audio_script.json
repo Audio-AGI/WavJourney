@@ -1,0 +1,6 @@
+
+[
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 3, "desc": "Engine buzzing"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -18, "len": 4, "desc": "Rustling sound"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 3, "desc": "Brief sewing machine noise"}
+]

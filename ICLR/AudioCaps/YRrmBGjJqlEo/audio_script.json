@@ -1,0 +1,7 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Fast typing on a computer keyboard"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -20, "text": "Welcome to our typing tutorial. Today we are going to learn some advanced techniques."},
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 1, "desc": "The sound of pressing the 'enter' key"}
+]

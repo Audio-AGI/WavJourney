@@ -1,0 +1,7 @@
+
+[
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 3, "desc": "Sound of rustling leaves"},
+{"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -20, "text": "What a lovely day it is, isn't it?"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 2, "desc": "Child's laughter"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 1, "desc": "Sound of rustling leaves fading away"}
+]

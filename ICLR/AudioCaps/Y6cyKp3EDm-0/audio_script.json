@@ -1,0 +1,8 @@
+
+[
+  {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 2, "desc": "Sound of pigeons pecking"},
+  {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 2, "desc": "Sound of pigeons cooing"},
+  {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 1, "desc": "Sound of pigeons flapping their wings"},
+  {"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -25, "text": "What a beautiful scene of nature"},
+  {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 4, "desc": "Silence"}
+]

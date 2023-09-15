@@ -1,0 +1,5 @@
+
+[
+{"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -20, "text": "Let's get started with the tool."},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 8, "desc": "Vibrations of a power tool"}
+]

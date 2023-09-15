@@ -1,0 +1,7 @@
+
+[
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Rain falling on various surfaces, creating a melodic pitter-patter"},
+{"audio_type": "speech", "layout": "foreground", "character": "Man 1", "vol": -25, "text": "I never did understand why people dislike the rain."},
+{"audio_type": "speech", "layout": "foreground", "character": "Man 2", "vol": -25, "text": "To me, it's like the world is getting a fresh new start."},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

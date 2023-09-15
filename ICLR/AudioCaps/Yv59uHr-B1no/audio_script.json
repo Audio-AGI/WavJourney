@@ -1,0 +1,7 @@
+
+[
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Distant croaks of different frogs"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 5, "desc": "Chirps of frogs near by"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 5, "desc": "Croaks of a frog up close"},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

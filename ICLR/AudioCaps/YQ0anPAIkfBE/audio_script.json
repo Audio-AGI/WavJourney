@@ -1,0 +1,10 @@
+
+[
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 3, "desc": "Baby crying sound"},
+{"audio_type": "speech", "layout": "foreground", "character": "Woman", "vol": -25, "text": "Shush, my little one."},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 2, "desc": "Light rustling sound"},
+
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Television playing softly in the background"},
+{"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -25, "text": "The weather forecasts predict rain tomorrow."},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

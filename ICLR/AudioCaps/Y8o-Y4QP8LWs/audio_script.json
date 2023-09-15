@@ -1,0 +1,12 @@
+
+[
+{"audio_type": "speech", "layout": "foreground", "character": "Adult Male", "vol": -20, "text": "Alright, let's get started."},
+
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 2, "desc": "Clattering and thumping of utensils"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -18, "len": 1, "desc": "Metal pinging sound"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -17, "len": 1, "desc": "Whistle sound from afar"},
+
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Continuous sound of liquid splashing"},
+{"audio_type": "speech", "layout": "foreground", "character": "Adult Male", "vol": -20, "text": "Well, let's see how this goes."},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

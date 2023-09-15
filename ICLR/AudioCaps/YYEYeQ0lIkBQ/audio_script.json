@@ -1,0 +1,9 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "begin", "vol": -35, "desc": "Ducks quacking and chirping"},
+    {"audio_type": "sound_effect", "layout": "background", "id": 2, "action": "begin", "vol": -35, "desc": "Wind blowing softly in the backdrop"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Man 1", "vol": -20, "text": "Quaint, isn't it, this peaceful setting?"},
+    {"audio_type": "speech", "layout": "foreground", "character": "Man 2", "vol": -20, "text": "Indeed, quite serene."},
+    {"audio_type": "sound_effect", "layout": "background", "id": 2, "action": "end"},
+    {"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "end"}
+]

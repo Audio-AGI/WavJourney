@@ -1,0 +1,8 @@
+
+[
+{"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "begin", "vol": -35, "desc": "Crumpling paper, continuous sound"},
+
+{"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -20, "text": "This is an example sentence of a man's voice, it lasts for approximately ten seconds."},
+
+{"audio_type": "sound_effect", "layout": "background", "id": 1, "action": "end"}
+]

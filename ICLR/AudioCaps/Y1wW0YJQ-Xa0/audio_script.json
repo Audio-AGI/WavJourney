@@ -1,0 +1,8 @@
+
+[
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Murmur of a group of people talking"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -25, "len": 2, "desc": "Sharp whoosh sound of compressed air spraying"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 2, "desc": "Metallic rattling sound like a tin can being shaken"},
+{"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -15, "text": "Interesting! Never seen anything like this before."},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

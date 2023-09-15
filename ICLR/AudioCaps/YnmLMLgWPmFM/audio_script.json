@@ -1,0 +1,7 @@
+
+[
+  {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Soft humming of an engine"},
+  {"audio_type": "speech", "layout": "foreground","character": "Speaker 1", "vol": -25, "text": "The engine seems to be in an excellent working condition."},
+  {"audio_type": "speech", "layout": "foreground","character": "Speaker 2", "vol": -25, "text": "Yes, the performance is truly impressive."},
+  {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

@@ -1,0 +1,7 @@
+
+[
+  {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 2, "desc": "Loud explosion sound"},
+  {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 1, "desc": "Gunfire sound, multiple shots"},
+  {"audio_type": "speech", "layout": "foreground", "character": "Speaker", "vol": -15, "text": "Stay calm and find shelter!"},
+  {"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 2, "desc": "Another loud explosion sound"}
+]

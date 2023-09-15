@@ -1,0 +1,8 @@
+
+[
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Sounds of a crowd talking"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 2, "desc": "Subway train signal"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 2, "desc": "Bell chime"},
+    {"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 1, "desc": "Horn honk"},
+    {"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

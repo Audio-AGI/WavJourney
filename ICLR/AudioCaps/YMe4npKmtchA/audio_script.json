@@ -1,0 +1,6 @@
+
+[
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Water trickling"},
+{"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -25, "text": "The flow of water, it's tranquil isn't it?"},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]

@@ -1,0 +1,7 @@
+
+[
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 2, "desc": "Vehicle engine sound starting and revving"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -18, "len": 4, "desc": "Vehicle driving by"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -17, "len": 4, "desc": "Tires skidding sound"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -15, "len": 2, "desc": "Tires squealing sound as the vehicle drives away"}
+]

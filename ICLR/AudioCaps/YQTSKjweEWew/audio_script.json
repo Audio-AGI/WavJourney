@@ -1,0 +1,5 @@
+
+[
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 5, "desc": "Wind blowing hard sound"},
+{"audio_type": "speech", "layout": "foreground", "character": "Man", "vol": -15, "text": "It sure is breezy today!"}
+]

@@ -1,0 +1,6 @@
+[
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "begin", "vol": -35, "desc": "Ocean waves"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 5, "desc": "Sound of wave crashing onto the shore"},
+{"audio_type": "sound_effect", "layout": "foreground", "vol": -20, "len": 5, "desc": "Sound of wave retreating back into the sea"},
+{"audio_type": "sound_effect", "layout": "background", "id":1, "action": "end"}
+]
