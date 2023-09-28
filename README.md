@@ -4,7 +4,7 @@ This repository contains the official implementation of "WavJourney: Composition
 Starting with a text prompt, WavJourney can create audio content with engaging storylines encompassing personalized speakers, lifelike speech in context, emotionally resonant music compositions, and impactful sound effects that enhance the auditory experience. 
 
 <p align="center">
-  <img align="middle" width="800" src="assets/WavJourney.png"/>
+  <img align="middle" width="800" src="WavJourney.png"/>
 </p>
 
 <hr>
